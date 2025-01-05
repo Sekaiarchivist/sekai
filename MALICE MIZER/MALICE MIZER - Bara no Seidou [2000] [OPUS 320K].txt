@@ -3,7 +3,7 @@ MALICE MIZER - Bara no Seidou [2000] [OPUS 320K]
 |--------|----------------------------------------------------------------|----------|---------|
 | TRACK  |                            TITLE                               | DURATION |   SIZE  |
 |--------|----------------------------------------------------------------|----------|---------|
-|   01   | Bara ni Irodorareta Akui to Higeki no Makuake                  |    29    |  01 MB  |
+|   01   | Bara ni Irodorareta Akui to Higeki no Makuake                  |   0:29   |  01 MB  |
 |   02   | Seinaru Toki Eien no Inori                                     |   8:14   |  19 MB  |
 |   03   | Kyomu no Naka de no Yuugi                                      |   6:38   |  15 MB  |
 |   04   | Kagami no Butou Genwaku no Yoru                                |   3:55   |  09 MB  |
