@@ -4,7 +4,7 @@ DISC 1
 |--------|----------------------------------------------------------------|----------|---------|
 | TRACK  |                            TITLE                               | DURATION |   SIZE  |
 |--------|----------------------------------------------------------------|----------|---------|
-|   01   | Yuuwaku (Re-recording)                                         |   4:16   |  09 MB  |
+|   01   | Yuuwaku (Re-Recording)                                         |   4:16   |  09 MB  |
 |   02   | MERMAID                                                        |   4:12   |  09 MB  |
 |   03   | Missing You                                                    |   5:50   |  13 MB  |
 |   04   | GLOBAL COMMUNICATION                                           |   4:12   |  09 MB  |
@@ -26,13 +26,13 @@ DISC 2
 | TRACK  |                            TITLE                               | DURATION |   SIZE  |
 |--------|----------------------------------------------------------------|----------|---------|
 |   01   | Blue Jean (Jet the Phantom Mix)                                |   5:33   |  12 MB  |
-|   02   | WHITE ROAD                                                     |   5:17   |  12 MB  |
+|   02   | White Road                                                     |   5:17   |  12 MB  |
 |   03   | SCREAM                                                         |   4:41   |  10 MB  |
 |   04   | ROCK'N'ROLL SWINDLE                                            |   4:02   |  09 MB  |
 |   05   | LAYLA                                                          |   5:37   |  12 MB  |
 |   06   | ANSWER                                                         |   5:13   |  11 MB  |
 |   07   | Natsuoto                                                       |   5:03   |  11 MB  |
-|   08   | Henna Yume ~THOUSAND DREAMS~                                   |   3:45   |  08 MB  |
+|   08   | Hen na Yume ~THOUSAND DREAMS~                                  |   3:45   |  08 MB  |
 |   09   | 100 Man Kai no KISS                                            |   4:47   |  11 MB  |
 |   10   | MIRROR                                                         |   5:51   |  13 MB  |
 |   11   | Kodou                                                          |   5:18   |  12 MB  |
@@ -49,14 +49,14 @@ DISC 3
 |   01   | Burning Chrome                                                 |   1:49   |  04 MB  |
 |   02   | ASHES-1969-                                                    |   3:30   |  07 MB  |
 |   03   | VERB                                                           |   4:56   |  11 MB  |
-|   04   | laotour ~Furueru kobushi ga tsukamu mono~                      |   4:05   |  09 MB  |
+|   04   | laotour ~Furueru Kobushi ga Tsukamu Mono~                      |   4:05   |  09 MB  |
 |   05   | THE BIRTHDAY GIRL                                              |   3:12   |  07 MB  |
-|   06   | I LOVE YOU wo sagashiteru                                      |   5:16   |  12 MB  |
+|   06   | I LOVE YOU wo Sagashiteru                                      |   5:16   |  12 MB  |
 |   07   | Itsuka no Natsu ni Mimi wo Sumaseba                            |   4:25   |  10 MB  |
 |   08   | NO ESCAPE                                                      |   5:40   |  12 MB  |
 |   09   | Synchronicity                                                  |   4:22   |  09 MB  |
 |   10   | I am xxx                                                       |   4:27   |  10 MB  |
 |   11   | RUN                                                            |   3:59   |  09 MB  |
 |   12   | SAY YOUR DREAM                                                 |  13:00   |  29 MB  |
-|   13   | RHYTHM                                                         |   4:09   |  09 MB  |
+|   13   | Rhythm                                                         |   4:09   |  09 MB  |
 |--------|----------------------------------------------------------------|----------|---------|
