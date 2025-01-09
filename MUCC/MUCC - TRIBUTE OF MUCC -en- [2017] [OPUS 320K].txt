@@ -4,34 +4,34 @@ DISC 1
 |--------|----------------------------------------------------------------|----------|---------|
 | TRACK  |                            TITLE                               | DURATION |   SIZE  |
 |--------|----------------------------------------------------------------|----------|---------|
-|   01   | Ranchuu                                                        |   3:10   |  07 MB  |
-|   02   | Honey                                                          |   3:25   |  07 MB  |
-|   03   | Saishuu Ressha                                                 |   4:25   |  10 MB  |
-|   04   | EMP                                                            |   5:32   |  12 MB  |
-|   05   | Gerbera                                                        |   5:24   |  12 MB  |
-|   06   | Oboreru Sakana                                                 |   5:43   |  12 MB  |
-|   07   | Utagoe                                                         |   4:02   |  09 MB  |
-|   08   | I Am Computer                                                  |   3:10   |  07 MB  |
-|   09   | Kaze to Taiyou                                                 |   3:47   |  08 MB  |
-|   10   | Ryuusei                                                        |   5:01   |  11 MB  |
-|   11   | Akatsuki Yami                                                  |   3:58   |  09 MB  |
-|   12   | Samidare                                                       |   4:11   |  09 MB  |
+|   01   | Ranchuu (ROTTENGRAFFTY)                                        |   3:10   |  07 MB  |
+|   02   | Honey (BAND-MAID)                                              |   3:25   |  07 MB  |
+|   03   | Saishuu Ressha (THE BACK HORN)                                 |   4:25   |  10 MB  |
+|   04   | EMP (Ken)                                                      |   5:32   |  12 MB  |
+|   05   | Gerbera (sukekiyo)                                             |   5:24   |  12 MB  |
+|   06   | Oboreru Sakana (gibkiy gibkiy gibkiy)                          |   5:43   |  12 MB  |
+|   07   | Utagoe (Kishidan)                                              |   4:02   |  09 MB  |
+|   08   | I Am Computer (POLYSICS)                                       |   3:10   |  07 MB  |
+|   09   | Kaze to Taiyou (cali≠gari)                                     |   3:47   |  08 MB  |
+|   10   | Ryuusei (Plastic Tree)                                         |   5:01   |  11 MB  |
+|   11   | Akatsuki Yami (SID)                                            |   3:58   |  09 MB  |
+|   12   | Samidare (Satoshi×Nii×ShuU×Яyo)                                |   4:11   |  09 MB  |
 |--------|----------------------------------------------------------------|----------|---------|
 
 DISC 2
 |--------|----------------------------------------------------------------|----------|---------|
 | TRACK  |                            TITLE                               | DURATION |   SIZE  |
 |--------|----------------------------------------------------------------|----------|---------|
-|   01   | CLASSIC                                                        |   4:43   |  10 MB  |
-|   02   | Daikirai                                                       |   2:56   |  06 MB  |
-|   03   | Bouzen Jishitsu                                                |   4:22   |  10 MB  |
-|   04   | Mr. Liar                                                       |   4:17   |  09 MB  |
-|   05   | Libra                                                          |   4:54   |  11 MB  |
-|   06   | Ieji                                                           |   5:00   |  11 MB  |
-|   07   | Aka                                                            |   6:07   |  13 MB  |
-|   08   | Heide                                                          |   3:13   |  07 MB  |
-|   09   | Flight                                                         |   3:46   |  08 MB  |
-|   10   | NIRVANA                                                        |   3:48   |  08 MB  |
-|   11   | Brilliant World                                                |   4:47   |  11 MB  |
-|   12   | Koi ha Mizuiro                                                 |   4:03   |  09 MB  |
+|   01   | CLASSIC (FLOW)                                                 |   4:43   |  10 MB  |
+|   02   | Daikirai (THE ORAL CIGARETTES)                                 |   2:56   |  06 MB  |
+|   03   | Bouzen Jishitsu (lynch.)                                       |   4:22   |  10 MB  |
+|   04   | Mr. Liar (Hysteric Panic)                                      |   4:17   |  09 MB  |
+|   05   | Libra (Junko Yano)                                             |   4:54   |  11 MB  |
+|   06   | Ieji (MERRY)                                                   |   5:00   |  11 MB  |
+|   07   | Aka (DEZERT)                                                   |   6:07   |  13 MB  |
+|   08   | Heide (ROACH)                                                  |   3:13   |  07 MB  |
+|   09   | Flight (BREAKERZ)                                              |   3:46   |  08 MB  |
+|   10   | NIRVANA (GRANRODEO)                                            |   3:48   |  08 MB  |
+|   11   | Brilliant World (Shou Kiryuuin Golden Bomber)                  |   4:47   |  11 MB  |
+|   12   | Koi ha Mizuiro (MUCC)                                          |   4:03   |  09 MB  |
 |--------|----------------------------------------------------------------|----------|---------|
