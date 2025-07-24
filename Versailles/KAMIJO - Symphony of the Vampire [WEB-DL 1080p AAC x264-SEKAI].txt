@@ -1,0 +1,72 @@
+General
+Unique ID                   : 27224418294537801396184972160801772171 (0x147B3B7428BBA1AE4189898D6C3D128B)
+Complete name               : KAMIJO - Symphony of the Vampire [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 1.36 GiB
+Duration                    : 28 min 13 s
+Overall bit rate            : 6 878 kb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : KAMIJO - Symphony of the Vampire [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                : 2025-07-20 07:07:25 UTC
+Writing application         : mkvmerge v93.0 ('Goblu') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 28 min 13 s
+Bit rate                    : 6 617 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (23976/1000) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.133
+Stream size                 : 1.30 GiB (96%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 28 min 13 s
+Bit rate                    : 258 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 52.1 MiB (4%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Menu
+00:00:00.000                : Presto
+00:03:29.083                : Sacrifice of Allegro
+00:07:43.713                : Royal Tercet
+00:09:55.261                : Dying-Table
+00:14:03.676                : Sonata
+00:18:26.021                : Mangetsu no Adagio
+00:21:40.215                : Throne
+
