@@ -1,0 +1,58 @@
+General
+Unique ID                   : 17250676806230770935790869539660713442 (0xCFA5C08562C46B50B2E469E08A34DE2)
+Complete name               : Utada Hikaru - Sakura Nagashi (Restored Version) [WEB-DL 2160p AAC x265-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 686 MiB
+Duration                    : 4 min 36 s
+Overall bit rate            : 20.8 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Utada Hikaru - Sakura Nagashi (Restored Version) [WEB-DL 2160p AAC x265-SEKAI]
+Encoded date                : 2025-07-20 07:32:49 UTC
+Writing application         : mkvmerge v93.0 ('Goblu') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : HEVC
+Format/Info                 : High Efficiency Video Coding
+Format profile              : Main 10@L5@High
+Codec ID                    : V_MPEGH/ISO/HEVC
+Duration                    : 4 min 36 s
+Bit rate                    : 20.6 Mb/s
+Width                       : 3 840 pixels
+Height                      : 2 160 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (23976/1000) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 10 bits
+Bits/(Pixel*Frame)          : 0.103
+Stream size                 : 677 MiB (99%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 4 min 36 s
+Bit rate                    : 274 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 9.03 MiB (1%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
