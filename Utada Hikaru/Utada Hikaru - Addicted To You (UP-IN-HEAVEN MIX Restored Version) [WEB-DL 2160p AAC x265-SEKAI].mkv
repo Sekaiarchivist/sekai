@@ -1,0 +1,58 @@
+General
+Unique ID                   : 281548826688533222384266194961958384812 (0xD3D054E4911F232380C1E434AE4734AC)
+Complete name               : Utada Hikaru - Addicted To You (UP-IN-HEAVEN MIX Restored Version) [WEB-DL 2160p AAC x265-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 997 MiB
+Duration                    : 5 min 29 s
+Overall bit rate            : 25.4 Mb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Utada Hikaru - Addicted To You (UP-IN-HEAVEN MIX Restored Version) [WEB-DL 2160p AAC x265-SEKAI]
+Encoded date                : 2025-07-21 06:41:40 UTC
+Writing application         : mkvmerge v93.0 ('Goblu') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : HEVC
+Format/Info                 : High Efficiency Video Coding
+Format profile              : Main 10@L5@High
+Codec ID                    : V_MPEGH/ISO/HEVC
+Duration                    : 5 min 29 s
+Bit rate                    : 25.1 Mb/s
+Width                       : 2 880 pixels
+Height                      : 2 160 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (29970/1000) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 10 bits
+Bits/(Pixel*Frame)          : 0.135
+Stream size                 : 987 MiB (99%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 5 min 29 s
+Bit rate                    : 265 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 10.2 MiB (1%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
