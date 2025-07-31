@@ -1,0 +1,63 @@
+General
+Unique ID                   : 124751760250088987191358305165849323752 (0x5DDA50A84D010EB0E3E3593F821EE8E8)
+Complete name               : Arlequin - Kachikan no Chigai wa Yuiitsu no Sukui Datta [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 367 MiB
+Duration                    : 5 min 5 s
+Overall bit rate            : 10.1 Mb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : ΛrlequiΩ - Kachikan no Chigai wa Yuiitsu no Sukui Datta [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                : 2025-07-28 04:07:04 UTC
+Writing application         : mkvmerge v93.0 ('Goblu') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 5 min 5 s
+Bit rate                    : 9 831 kb/s
+Width                       : 1 920 pixels
+Height                      : 894 pixels
+Display aspect ratio        : 2.148
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.191
+Stream size                 : 358 MiB (98%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 5 min 5 s
+Bit rate                    : 243 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 8.83 MiB (2%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
