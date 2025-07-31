@@ -1,0 +1,75 @@
+General
+Unique ID                   : 123629357724270340033385892231706572145 (0x5D0225F0BD7B52C8666E01B21ED7F571)
+Complete name               : the GazettE - REMEMBER THE URGE [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 179 MiB
+Duration                    : 4 min 2 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 6 195 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : the GazettE - REMEMBER THE URGE [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-07-31 11:29:55 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : Variable
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 4 min 2 s
+Bit rate mode               : Variable
+Bit rate                    : 4 654 kb/s
+Maximum bit rate            : 7 900 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.449
+Time code of first frame    : 01:18:01:20
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Open
+Stream size                 : 135 MiB (75%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)160 (0xA0)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 4 min 2 s
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 30.000 FPS (1600 SPF)
+Bit depth                   : 16 bits
+Delay relative to video     : 19 ms
+Stream size                 : 44.4 MiB (25%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
