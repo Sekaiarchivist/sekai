@@ -1,0 +1,74 @@
+General
+Unique ID                   : 304627548697548060297707670802352446980 (0xE52D21BD2205128721D2D01514A61E04)
+Complete name               : the GazettE - DISTRESS AND COMA [PAL DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 358 MiB
+Duration                    : 5 min 30 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 9 089 kb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : the GazettE - DISTRESS AND COMA [PAL DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-08-01 08:09:44 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : Variable
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 5 min 30 s
+Bit rate mode               : Variable
+Bit rate                    : 7 549 kb/s
+Maximum bit rate            : 9 800 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Variable
+Frame rate                  : 23.976 (23976/1000) FPS
+Original frame rate         : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Scan order                  : 2:3 Pulldown
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.911
+Time code of first frame    : 01:35:00:03
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Open
+GOP, Open/Closed of first f : Closed
+Stream size                 : 297 MiB (83%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)160 (0xA0)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 5 min 30 s
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 30.000 FPS (1600 SPF)
+Bit depth                   : 16 bits
+Stream size                 : 60.4 MiB (17%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
