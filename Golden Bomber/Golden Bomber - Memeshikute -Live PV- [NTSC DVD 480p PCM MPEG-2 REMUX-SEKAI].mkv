@@ -1,0 +1,76 @@
+General
+Unique ID                   : 111746423000706552695524556334390417673 (0x5411940674EE2FEAEBF9D61233819909)
+Complete name               : Golden Bomber - Memeshikute -Live PV- [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 269 MiB
+Duration                    : 4 min 17 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 8 755 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Golden Bomber - Memeshikute -Live PV- [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-08-06 19:47:28 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=15
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 4 min 17 s
+Bit rate mode               : Variable
+Bit rate                    : 7 217 kb/s
+Maximum bit rate            : 8 300 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.697
+Time code of first frame    : 01:15:28;13
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Closed
+Stream size                 : 221 MiB (82%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color primaries             : BT.601 NTSC
+Transfer characteristics    : BT.601
+Matrix coefficients         : BT.601
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)160 (0xA0)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 4 min 17 s
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 30.000 FPS (1600 SPF)
+Bit depth                   : 16 bits
+Delay relative to video     : 5 ms
+Stream size                 : 47.1 MiB (18%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
