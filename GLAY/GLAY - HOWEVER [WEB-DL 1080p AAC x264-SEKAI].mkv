@@ -1,0 +1,63 @@
+General
+Unique ID                   : 149934988925132333809973084993931608146 (0x70CC6DB1678E626602B6753854B28052)
+Complete name               : GLAY - HOWEVER [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 282 MiB
+Duration                    : 5 min 42 s
+Overall bit rate            : 6 913 kb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : GLAY - HOWEVER [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                : 2025-08-06 11:09:27 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 5 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 5 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 5 min 42 s
+Bit rate                    : 6 656 kb/s
+Width                       : 1 406 pixels
+Height                      : 1 072 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.184
+Stream size                 : 272 MiB (96%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 5 min 42 s
+Bit rate                    : 254 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 10.3 MiB (4%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
