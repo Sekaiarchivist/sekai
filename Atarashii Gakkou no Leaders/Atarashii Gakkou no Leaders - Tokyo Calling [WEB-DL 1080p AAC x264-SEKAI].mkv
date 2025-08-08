@@ -1,0 +1,63 @@
+General
+Unique ID                   : 244105729085024075118247610718656507041 (0xB7A50DA6A67DA365A5130D54C111ACA1)
+Complete name               : Atarashii Gakkou no Leaders - Tokyo Calling [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 247 MiB
+Duration                    : 3 min 26 s
+Overall bit rate            : 10.0 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Atarashii Gakkou no Leaders - Tokyo Calling [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                : 2025-08-07 12:50:38 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 3 min 26 s
+Bit rate                    : 9 771 kb/s
+Width                       : 1 740 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:10
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.217
+Stream size                 : 240 MiB (97%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
+
+Audio
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 3 min 26 s
+Bit rate                    : 265 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 6.55 MiB (3%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
