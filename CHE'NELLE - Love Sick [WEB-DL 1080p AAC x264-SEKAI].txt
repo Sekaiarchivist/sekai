@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 232530995124288126388901867875264076234 (0xAEEFD734E419BE781550833B69C399CA)
+Complete name                            : C:\Users\Administrator\Desktop\SEKAI\CHE'NELLE - Love Sick [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 176 MiB
+Duration                                 : 3 min 35 s
+Overall bit rate                         : 6 833 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : CHE'NELLE - Love Sick [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                             : 2025-08-10 09:29:53 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 min 35 s
+Bit rate                                 : 6 582 kb/s
+Width                                    : 1 912 pixels
+Height                                   : 812 pixels
+Display aspect ratio                     : 2.35:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.177
+Stream size                              : 169 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 3 min 35 s
+Bit rate                                 : 249 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 6.42 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
