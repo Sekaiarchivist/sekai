@@ -1,6 +1,6 @@
 ﻿General
 Unique ID                                : 232530995124288126388901867875264076234 (0xAEEFD734E419BE781550833B69C399CA)
-Complete name                            : C:\Users\Administrator\Desktop\SEKAI\CHE'NELLE - Love Sick [WEB-DL 1080p AAC x264-SEKAI].mkv
+Complete name                            : CHE'NELLE - Love Sick [WEB-DL 1080p AAC x264-SEKAI].mkv
 Format                                   : Matroska
 Format version                           : Version 4
 File size                                : 176 MiB
@@ -60,5 +60,6 @@ Stream size                              : 6.42 MiB (4%)
 Language                                 : Japanese
 Default                                  : Yes
 Forced                                   : No
+
 
 
