@@ -1,0 +1,59 @@
+﻿General
+Unique ID                                : 94630968068446378961474652567840356783 (0x473142F21E5F7A565C57E2FB167DF9AF)
+Complete name                            : Unlucky Morpheus - Sekai Rinne [WEB-DL 4K AAC x265-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 341 MiB
+Duration                                 : 3 min 57 s
+Overall bit rate                         : 12.1 Mb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Unlucky Morpheus - Sekai Rinne [WEB-DL 4K AAC x265-SEKAI]
+Encoded date                             : 2025-08-11 07:31:41 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 3 min 57 s
+Bit rate                                 : 11.8 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 1 728 pixels
+Display aspect ratio                     : 2.222
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (23976/1000) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.074
+Stream size                              : 333 MiB (98%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 3 min 57 s
+Bit rate                                 : 265 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 7.57 MiB (2%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
