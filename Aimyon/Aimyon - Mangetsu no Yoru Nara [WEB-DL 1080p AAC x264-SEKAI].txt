@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 94859819415450262706029680737930524857 (0x475D563035F5BC65F5B349B8A48D38B9)
+Complete name                            : Aimyon - Mangetsu no Yoru Nara [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 179 MiB
+Duration                                 : 3 min 36 s
+Overall bit rate                         : 6 924 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Aimyon - Mangetsu no Yoru Nara [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                             : 2025-08-11 08:22:15 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 min 36 s
+Bit rate                                 : 6 676 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 916 pixels
+Display aspect ratio                     : 2.096
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.158
+Stream size                              : 172 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 3 min 36 s
+Bit rate                                 : 245 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 6.34 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
