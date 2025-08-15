@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 112602016704134784780947043000791529063 (0x54B65C0D3B2077376A29E2FB85E2F667)
+Complete name                            : Southern All Stars - Utae Nippon no Sora [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 209 MiB
+Duration                                 : 4 min 17 s
+Overall bit rate                         : 6 788 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Southern All Stars - Utae Nippon no Sora [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                             : 2025-08-14 04:50:52 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 17 s
+Bit rate                                 : 6 523 kb/s
+Width                                    : 1 918 pixels
+Height                                   : 798 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.178
+Stream size                              : 200 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 17 s
+Bit rate                                 : 265 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 8.10 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
