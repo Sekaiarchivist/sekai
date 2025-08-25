@@ -1,0 +1,72 @@
+﻿General
+Unique ID                                : 23051212978475879228330632225309565865 (0x1157808BC949FAB4F69A9FAD5C4FA3A9)
+Complete name                            : Versailles - Shout & Bites [PAL DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 233 MiB
+Duration                                 : 4 min 4 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 7 980 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Versailles - Shout & Bites [PAL DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2025-08-21 11:56:37 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 4 min 4 s
+Bit rate mode                            : Variable
+Bit rate                                 : 6 450 kb/s
+Maximum bit rate                         : 7 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.623
+Time code of first frame                 : 00:00:00;00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 188 MiB (81%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 4 min 4 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.004 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Delay relative to video                  : -287 ms
+Stream size                              : 44.8 MiB (19%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
