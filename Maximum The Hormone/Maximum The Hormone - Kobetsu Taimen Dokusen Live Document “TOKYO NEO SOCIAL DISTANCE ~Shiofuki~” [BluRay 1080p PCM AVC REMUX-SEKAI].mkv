@@ -1,0 +1,89 @@
+General
+Unique ID                   : 158999550431755479653455953448993718436 (0x779E331488838379A63DE94473D680A4)
+Complete name               : Maximum The Hormone - Kobetsu Taimen Dokusen Live Document “TOKYO NEO SOCIAL DISTANCE ~Shiofuki~” [BluRay 1080p PCM AVC REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 12.7 GiB
+Duration                    : 57 min 40 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 31.5 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Maximum The Hormone - Kobetsu Taimen Dokusen Live Document “TOKYO NEO SOCIAL DISTANCE ~Shiofuki~” [BluRay 1080p PCM AVC REMUX-SEKAI]
+Encoded date                : 2025-08-21 19:03:39 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 4113 (0x1011)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4.1
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 4 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 57 min 40 s
+Bit rate mode               : Variable
+Bit rate                    : 30.0 Mb/s
+Maximum bit rate            : 40.0 Mb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.603
+Time code of first frame    : 00:59:59:00
+Stream size                 : 12.1 GiB (95%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
+Audio
+ID                          : 2
+ID in the original source m : 4352 (0x1100)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 57 min 40 s
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 30.000 FPS (1600 SPF)
+Bit depth                   : 16 bits
+Stream size                 : 634 MiB (5%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
+Menu
+00:00:00.000                : ja:
+00:05:28.494                : ja:FOREVER, HEY! HO! LET'S GO! -Ramones ni Sasagu-
+00:09:55.803                : ja:
+00:12:31.292                : ja:Rock Bankuruwase
+00:14:51.891                : ja:
+00:15:48.781                : ja:Haiyani Spain -We're the Ore-
+00:20:17.883                : ja:Minoreba☆Rock
+00:24:50.071                : ja:Pato-car Moyasu ~sotsugyo~
+00:27:20.972                : ja:Utsukushiki Hitobito no Uta
+00:31:58.958                : ja:
+00:33:19.330                : ja:Tatarikun ~ Tatarikun ~ Goshumori (Maximum the Ryo-kun ver./Daisuke-han ver./Ue-chan ver./Nao ver./HARAPEKO ver.)
+00:38:25.261                : ja:
+00:41:45.794                : ja:BOURIKI
+00:43:18.596                : ja:Kill all the 394
+00:44:53.399                : ja:Nitro BB Sensou
+00:48:01.169                : ja:Koi no Kinako Watashi ni Mottekinasai
+00:50:48.420                : ja:
+00:51:35.217                : ja:R.H.C.P. ga Boku wo Sarai ni Yatte Kita Yonshumori (Nao ver./Maximum the Ryo-kun ver./Daisuke-han ver./Ue-chan ver.)
+00:55:20.108                : ja:
+00:57:39.456                : ja:
+
