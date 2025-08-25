@@ -1,0 +1,154 @@
+General
+Unique ID                   : 305792832306243693451318109299683940864 (0xE60D8EA80D1BEDC6AE149E89AEB4DA00)
+Complete name               : Maximum The Hormone - Zenseki Ganmen Shiteiseki Live “Menmenmen ~Fumetsu no Face~” [BluRay 1080p PCM AVC REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 28.0 GiB
+Duration                    : 2 h 7 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 31.6 Mb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : Maximum The Hormone - Zenseki Ganmen Shiteiseki Live “Menmenmen ~Fumetsu no Face~” [BluRay 1080p PCM AVC REMUX-SEKAI]
+Encoded date                : 2025-08-21 14:48:48 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 4113 (0x1011)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4.1
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, GOP        : M=2, N=24
+Format settings, Slice coun : 4 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 2 h 7 min
+Bit rate mode               : Variable
+Bit rate                    : 30.0 Mb/s
+Maximum bit rate            : 40.0 Mb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.603
+Time code of first frame    : 01:00:00:00
+Stream size                 : 26.6 GiB (95%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
+Audio
+ID                          : 2
+ID in the original source m : 4352 (0x1100)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 2 h 7 min
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 30.000 FPS (1600 SPF)
+Bit depth                   : 16 bits
+Stream size                 : 1.36 GiB (5%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
+Text #1
+ID                          : 3
+ID in the original source m : 4608 (0x1200)
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 2 h 7 min
+Bit rate                    : 56.9 kb/s
+Frame rate                  : 0.443 FPS
+Count of elements           : 3373
+Stream size                 : 51.7 MiB (0%)
+Language                    : English
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
+Text #2
+ID                          : 4
+ID in the original source m : 4609 (0x1201)
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 2 h 7 min
+Bit rate                    : 60.0 kb/s
+Frame rate                  : 0.445 FPS
+Count of elements           : 3394
+Stream size                 : 54.5 MiB (0%)
+Language                    : Spanish
+Default                     : No
+Forced                      : No
+Original source medium      : Blu-ray
+
+Text #3
+ID                          : 5
+ID in the original source m : 4610 (0x1202)
+Format                      : PGS
+Muxing mode                 : zlib
+Codec ID                    : S_HDMV/PGS
+Codec ID/Info               : Picture based subtitle format used on BDs/HD-DVDs
+Duration                    : 2 h 7 min
+Bit rate                    : 58.5 kb/s
+Frame rate                  : 0.445 FPS
+Count of elements           : 3394
+Stream size                 : 53.1 MiB (0%)
+Language                    : Portuguese
+Default                     : No
+Forced                      : No
+Original source medium      : Blu-ray
+
+Menu
+00:00:00.000                : ja:
+00:04:55.295                : ja:
+00:13:29.433                : ja:
+00:19:02.683                : ja:
+00:19:50.689                : ja:maximum the hormone
+00:24:47.903                : ja:“F”
+00:29:59.714                : ja:maximum the hormone II -Korekarano Menkata Cottelee no Hanashi wo Shiyou-
+00:34:47.710                : ja:Benjo Sandal Dance
+00:38:41.360                : ja:What's up, people?!
+00:42:41.100                : ja:
+00:45:23.804                : ja:Hungry Pride
+00:50:22.686                : ja:Chu2 The Beam
+00:54:17.879                : ja:Healthy Bob
+00:56:51.408                : ja:
+00:58:59.577                : ja:my girl
+01:03:29.972                : ja:falling jimmy
+01:05:47.443                : ja:
+01:08:18.344                : ja:UEHARA -FUTOSHI-
+01:10:55.960                : ja:Kyokatsu
+01:14:49.276                : ja:
+01:17:18.342                : ja:Tsume Tsume Tsume
+01:21:58.038                : ja:Zetsubou Billy
+01:25:55.900                : ja:
+01:29:33.993                : ja:Koi no Sperm
+01:36:25.488                : ja:
+01:39:16.283                : ja:
+01:43:16.064                : ja:G'old~en~Guy
+01:48:22.204                : ja:
+01:51:38.692                : ja:Koi no Mega Lover
+01:57:42.430                : ja:
+02:00:24.008                : ja:
+02:02:14.410                : ja:
+02:07:11.081                : ja:
+
