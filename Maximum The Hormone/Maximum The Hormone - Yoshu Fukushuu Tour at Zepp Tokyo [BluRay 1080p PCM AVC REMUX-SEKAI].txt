@@ -79,7 +79,7 @@ Menu
 00:11:53.546                             : ja:Utsukushiki Hitobito no Uta
 00:16:36.195                             : ja:MTH Addressing the Audience - 1
 00:18:49.628                             : ja:maximum the hormone
-00:23:50.095                             : ja:ΓÇ£FΓÇ¥
+00:23:50.095                             : ja:“F”
 00:27:59.944                             : ja:Benjo Sandal Dance
 00:32:06.291                             : ja:MTH Addressing the Audience - 2
 00:34:51.956                             : ja:A-L-I-E-N
@@ -101,5 +101,6 @@ Menu
 01:48:20.360                             : ja:MTH Addressing the Audience - 7
 01:51:38.625                             : ja:Nigire!!
 01:55:46.639                             : ja:Credits
+
 
 
