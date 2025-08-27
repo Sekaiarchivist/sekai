@@ -8,7 +8,7 @@ Duration                                 : 4 min 1 s
 Overall bit rate mode                    : Variable
 Overall bit rate                         : 4 792 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Maximum The Hormone - MinorebaΓÿåRock [PAL DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Title                                    : Maximum The Hormone - Minoreba☆Rock [PAL DVD 480p PCM MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2025-08-27 07:44:12 UTC
 Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
@@ -68,5 +68,6 @@ Language                                 : Japanese
 Default                                  : Yes
 Forced                                   : No
 Original source medium                   : DVD-Video
+
 
 
