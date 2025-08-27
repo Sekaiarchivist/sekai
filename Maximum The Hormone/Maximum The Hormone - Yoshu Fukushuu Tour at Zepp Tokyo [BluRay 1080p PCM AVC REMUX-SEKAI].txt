@@ -1,0 +1,105 @@
+﻿General
+Unique ID                                : 67296467975784952057640265522415699072 (0x32A0D40A543101CD0DFF7AB541C88480)
+Complete name                            : Maximum The Hormone - Yoshu Fukushuu Tour at Zepp Tokyo [BluRay 1080p PCM AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 25.9 GiB
+Duration                                 : 1 h 58 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 31.4 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Maximum The Hormone - Yoshu Fukushuu Tour at Zepp Tokyo [BluRay 1080p PCM AVC REMUX-SEKAI]
+Encoded date                             : 2025-08-27 02:55:59 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 58 min
+Bit rate mode                            : Variable
+Bit rate                                 : 29.8 Mb/s
+Maximum bit rate                         : 40.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.480
+Time code of first frame                 : 00:59:58:00
+Stream size                              : 24.7 GiB (95%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Original source medium                   : Blu-ray
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 4352 (0x1100)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 1 h 58 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 30.000 FPS (1600 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 1.27 GiB (5%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Menu
+00:00:00.000                             : ja:Show Start!
+00:01:18.044                             : ja:Yoshu Fukushuu
+00:06:04.097                             : ja:Beauty Killosseum
+00:11:26.252                             : ja:Utsukushiki OP ~Tsuki no Bakugekiki~
+00:11:53.546                             : ja:Utsukushiki Hitobito no Uta
+00:16:36.195                             : ja:MTH Addressing the Audience - 1
+00:18:49.628                             : ja:maximum the hormone
+00:23:50.095                             : ja:ΓÇ£FΓÇ¥
+00:27:59.944                             : ja:Benjo Sandal Dance
+00:32:06.291                             : ja:MTH Addressing the Audience - 2
+00:34:51.956                             : ja:A-L-I-E-N
+00:39:29.467                             : ja:Bikini Sports Ponchin
+00:43:21.532                             : ja:MTH Addressing the Audience - 3
+00:46:39.363                             : ja:Unbelievable ~Swomints Hockeleiro Mifeho~
+00:50:20.817                             : ja:Zetsubou Billy
+00:53:57.167                             : ja:MTH Addressing the Audience - 4
+00:57:56.806                             : ja:Rock Oreimairi ~3 Chords de Omae Fullbocco~
+01:00:16.179                             : ja:Mesubuta no Ketsu ni Binta (Kick mo)
+01:03:56.199                             : ja:Kuso Breakin' Nou Breakin' Lily
+01:07:53.269                             : ja:MTH Addressing the Audience - 5
+01:11:28.484                             : ja:Buiikikaesu!!
+01:15:24.586                             : ja:MTH Addressing the Audience - 6
+01:19:33.101                             : ja:Koi no Sperm
+01:25:57.252                             : ja:Comedy Sketch
+01:39:06.473                             : ja:Chu2 The Beam
+01:42:51.365                             : ja:Koi no Mega Lover
+01:48:20.360                             : ja:MTH Addressing the Audience - 7
+01:51:38.625                             : ja:Nigire!!
+01:55:46.639                             : ja:Credits
+
+

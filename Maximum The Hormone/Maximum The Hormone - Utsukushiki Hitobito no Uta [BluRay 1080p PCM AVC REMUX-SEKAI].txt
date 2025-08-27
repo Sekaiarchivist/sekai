@@ -1,0 +1,75 @@
+﻿General
+Unique ID                                : 155023482975088505166117416800776289112 (0x74A06FD1C38D9119A6AEB3117166FB58)
+Complete name                            : Maximum The Hormone - Utsukushiki Hitobito no Uta [BluRay 1080p PCM AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 927 MiB
+Duration                                 : 4 min 54 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 26.4 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Maximum The Hormone - Utsukushiki Hitobito no Uta [BluRay 1080p PCM AVC REMUX-SEKAI]
+Encoded date                             : 2025-08-27 03:30:02 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 54 s
+Bit rate mode                            : Variable
+Bit rate                                 : 24.9 Mb/s
+Maximum bit rate                         : 40.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.400
+Time code of first frame                 : 01:00:00:00
+Stream size                              : 873 MiB (94%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+Original source medium                   : Blu-ray
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 4352 (0x1100)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 4 min 54 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 30.000 FPS (1600 SPF)
+Bit depth                                : 16 bits
+Delay relative to video                  : 30 ms
+Stream size                              : 53.9 MiB (6%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+
