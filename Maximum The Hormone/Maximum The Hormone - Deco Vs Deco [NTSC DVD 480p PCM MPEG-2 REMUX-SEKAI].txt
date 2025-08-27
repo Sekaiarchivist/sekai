@@ -1,0 +1,101 @@
+﻿General
+Unique ID                                : 178630890956871036250221541602516061799 (0x86630EE57365ACF7D509D23E5618CE67)
+Complete name                            : Maximum The Hormone - Deco Vs Deco [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 3.32 GiB
+Duration                                 : 1 h 33 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 5 106 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Maximum The Hormone - Deco Vs Deco [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2025-08-27 06:15:21 UTC
+Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Variable
+Bit rate                                 : 3 568 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.344
+Stream size                              : 2.32 GiB (70%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 189 (0xBD)160 (0xA0)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 1 h 33 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 30.000 FPS (1600 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 1 023 MiB (30%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Menu
+00:00:00.000                             : en:(SE) Intro
+00:00:56.856                             : en:What's up, people?!
+00:05:29.829                             : en:Hochou Hasami Cutter Knife Dosu Kiri
+00:08:25.505                             : en:MC
+00:12:00.886                             : en:Kuso Breakin' Nou Breakin' Lily
+00:16:02.962                             : en:Policeman Benz
+00:20:01.366                             : en:Kyokatsu
+00:23:37.416                             : en:MC
+00:25:44.543                             : en:Zetsubou Billy
+00:29:32.937                             : en:Buiikikaesu!!
+00:33:34.278                             : en:MC
+00:34:55.493                             : en:Bikini Sports Ponchin
+00:39:12.817                             : en:UEHARA -FUTOSHI-
+00:41:35.493                             : en:MC
+00:43:17.795                             : en:Shimi
+00:48:06.250                             : en:MC
+00:50:16.013                             : en:Louisiana Bob
+00:54:02.272                             : en:Black ┬Ñ Power G-men Spy
+00:56:33.390                             : en:MC
+00:57:44.461                             : en:falling jimmy
+01:00:04.601                             : en:ROLLING1000tOON
+01:03:02.145                             : en:MC
+01:11:23.612                             : en:Koi no Mega Lover
+01:17:47.663                             : en:MC
+01:21:26.882                             : en:ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero
+01:24:55.757                             : en:Nigire!!
+01:28:48.323                             : en:(SE) Outro
+
+
