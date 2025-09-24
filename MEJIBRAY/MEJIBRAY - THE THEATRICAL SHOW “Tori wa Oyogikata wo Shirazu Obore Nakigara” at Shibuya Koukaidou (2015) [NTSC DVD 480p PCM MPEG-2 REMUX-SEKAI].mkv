@@ -1,0 +1,100 @@
+General
+Unique ID                   : 89764225289639305528841602060953272027 (0x4387F6004B8FD19D371C37160F3B3EDB)
+Complete name               : MEJIBRAY - THE THEATRICAL SHOW “Tori wa Oyogikata wo Shirazu Obore Nakigara” at Shibuya Koukaidou (2015) [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 7.04 GiB
+Duration                    : 1 h 59 min
+Overall bit rate mode       : Constant
+Overall bit rate            : 8 443 kb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : MEJIBRAY - THE THEATRICAL SHOW “Tori wa Oyogikata wo Shirazu Obore Nakigara” at Shibuya Koukaidou (2015) [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-08-21 07:47:16 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=12
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 1 h 59 min
+Bit rate mode               : Constant
+Bit rate                    : 6 903 kb/s
+Maximum bit rate            : 6 200 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Frame rate                  : 23.976 FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Scan order                  : 2:3 Pulldown
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.833
+Time code of first frame    : 00:00:00:00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Open
+GOP, Open/Closed of first f : Closed
+Stream size                 : 5.76 GiB (82%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color primaries             : BT.601 NTSC
+Transfer characteristics    : BT.601
+Matrix coefficients         : BT.601
+
+Audio
+ID                          : 2
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 1 h 59 min
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 30.000 FPS (1600 SPF)
+Bit depth                   : 16 bits
+Stream size                 : 1.28 GiB (18%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Menu
+00:00:00.000                : en:(SE) IDEA
+00:00:45.879                : en:Theatrical Blue Black
+00:05:14.430                : en:DiefiL
+00:09:56.512                : en:Hungry Psychopath
+00:14:20.809                : en:Mr. Rain wa Shinda Furi
+00:18:48.961                : en:RAVEN
+00:22:52.904                : en:Maisou Mushi
+00:27:43.695                : en:Contagion
+00:31:23.298                : en:Echo
+00:39:37.074                : en:hatred × tangle red × hunger red
+00:43:39.700                : en:Shunkan no Ideal
+00:48:26.603                : en:BOWWOW
+00:52:30.597                : en:SUICIDAL WORD GAME
+00:55:43.340                : en:SERVANT
+00:57:51.417                : en:Cristate
+01:02:58.858                : en:Tori wa Oyogikata wo Shirazu Obore Nakigara
+01:10:02.365                : en:(SE) Moudoku
+01:11:22.394                : en:Nepenthes
+01:15:21.684                : en:Invisible Tower maker
+01:20:39.668                : en:Madari
+01:25:34.129                : en:Sabato
+01:30:48.643                : en:Gesshoku
+01:33:59.050                : en:Kase to Chinou -Sorette Totemo Ningenrashiitte Kamisama wa Waratteru no-
+01:38:23.064                : en:Messiah
+01:47:16.346                : en:Backstage Footage
+
