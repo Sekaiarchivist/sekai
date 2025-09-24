@@ -1,0 +1,108 @@
+General
+Unique ID                   : 239528447214023281381445334565786250679 (0xB433803B20835546486E19D83C586DB7)
+Complete name               : MEJIBRAY - Moumoku no Neko wo Koroshita Moudoku at Hibiya Yagai Ongakudou (2015) [NTSC DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 5.16 GiB
+Duration                    : 1 h 44 min
+Overall bit rate mode       : Constant
+Overall bit rate            : 7 089 kb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : MEJIBRAY - Moumoku no Neko wo Koroshita Moudoku at Hibiya Yagai Ongakudou (2015) [NTSC DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Encoded date                : 2025-08-20 07:00:23 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : Variable
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 1 h 44 min
+Bit rate mode               : Constant
+Bit rate                    : 6 700 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Frame rate                  : 23.976 FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Scan order                  : 2:3 Pulldown
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.809
+Time code of first frame    : 00:00:00:00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Open
+GOP, Open/Closed of first f : Closed
+Stream size                 : 4.88 GiB (95%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color primaries             : BT.601 NTSC
+Transfer characteristics    : BT.601
+Matrix coefficients         : BT.601
+
+Audio
+ID                          : 2
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 1 h 44 min
+Bit rate mode               : Constant
+Bit rate                    : 384 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 286 MiB (5%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Dialog Normalization        : -31 dB
+compr                       : -11.02 dB
+dialnorm_Average            : -31 dB
+dialnorm_Minimum            : -31 dB
+dialnorm_Maximum            : -31 dB
+
+Menu
+00:00:00.000                : en:(SE) Moudoku
+00:01:36.096                : en:VENOMS
+00:06:29.472                : en:Kase to Chinou -Sorette Totemo Ningenrashiitte Kamisama wa Waratteru no-
+00:09:56.212                : en:Madari
+00:14:14.803                : en:SUICIDAL WORD GAME
+00:17:16.702                : en:BI“name”JIKA
+00:21:39.915                : en:Mr. Rain wa Shinda Furi
+00:25:53.835                : en:Until...
+00:29:48.403                : en:Spice
+00:34:08.546                : en:Ningen
+00:38:00.728                : en:Nepenthes
+00:43:30.641                : en:Mukade
+00:46:42.082                : en:BOWWOW
+00:50:50.497                : en:ACME
+00:54:00.654                : en:SERVANT
+00:56:22.629                : en:kairi
+01:01:34.223                : en:Kodoku no Catacomb
+01:04:08.344                : en:DECADANCE - Counting Goats ... if I can't be yours -
+01:12:08.128                : en:(SE) A PRIORI
+01:14:08.081                : en:Paradigm Paradox
+01:17:21.941                : en:Genzai no Ringo
+01:21:30.272                : en:Gesshoku
+01:25:19.001                : en:Messiah
+01:32:08.994                : en:(SE) Iris
+01:33:44.790                : en:Bonus Footage #1
+01:38:24.819                : en:Bonus Footage #2
+
