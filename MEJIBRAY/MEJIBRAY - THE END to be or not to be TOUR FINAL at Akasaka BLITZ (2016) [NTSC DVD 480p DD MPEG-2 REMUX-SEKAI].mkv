@@ -1,0 +1,121 @@
+General
+Unique ID                   : 248248711161900422407969331752858655700 (0xBAC2F6701D306E1568A6D663B6619BD4)
+Complete name               : MEJIBRAY - THE END to be or not to be TOUR FINAL at Akasaka BLITZ (2016) [NTSC DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 7.00 GiB
+Duration                    : 2 h 17 min
+Overall bit rate mode       : Constant
+Overall bit rate            : 7 280 kb/s
+Frame rate                  : 23.976 FPS
+Movie name                  : MEJIBRAY - THE END to be or not to be TOUR FINAL at Akasaka BLITZ (2016) [NTSC DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Encoded date                : 2025-08-20 09:07:36 UTC
+Writing application         : mkvmerge v94.0 ('Initiate') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=12
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 2 h 17 min
+Bit rate mode               : Constant
+Bit rate                    : 6 900 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Variable
+Frame rate                  : 23.976 FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Scan order                  : 2:3 Pulldown
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.833
+Time code of first frame    : 00:00:00:00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Open
+GOP, Open/Closed of first f : Closed
+Stream size                 : 6.63 GiB (95%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color primaries             : BT.601 NTSC
+Transfer characteristics    : BT.601
+Matrix coefficients         : BT.601
+
+Audio
+ID                          : 2
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 2 h 17 min
+Bit rate mode               : Constant
+Bit rate                    : 384 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 376 MiB (5%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Dialog Normalization        : -31 dB
+compr                       : -0.28 dB
+dialnorm_Average            : -31 dB
+dialnorm_Minimum            : -31 dB
+dialnorm_Maximum            : -31 dB
+
+Menu
+00:00:00.000                : en:(SE) Moudoku
+00:01:32.709                : en:THE END
+00:06:16.993                : en:DiefiL
+00:10:34.083                : en:Mukade
+00:13:41.654                : en:Invisible Tower maker
+00:19:00.005                : en:DE:SHOW
+00:22:14.416                : en:(SE) Tenchi Souzou -Kuroi Ame-
+00:22:42.444                : en:Kokyuu
+00:26:35.760                : en:Hiai
+00:30:03.001                : en:Eiki
+00:34:26.347                : en:DECADENCE - Counting Goats ... if I can’t be yours -
+00:40:44.391                : en:MC
+00:41:31.438                : en:KILLING ME
+00:45:44.441                : en:MC
+00:46:01.208                : en:Gesshoku
+00:49:10.480                : en:Genzai no Ringo
+00:53:01.962                : en:Sabato
+00:58:20.246                : en:Negator NEGATOR
+01:03:36.345                : en:Theatrical Blue Black
+01:10:27.840                : en:(SE) Moudoku
+01:12:01.934                : en:Uka
+01:16:21.393                : en:BLACK REBELLION
+01:19:25.076                : en:VICTIM(ism)
+01:23:20.028                : en:Madari
+01:27:37.952                : en:insomnia
+01:32:35.583                : en:(SE) Tenchi Souzou -Kuroi Ame-
+01:33:45.653                : en:-XV-
+01:37:34.581                : en:Ningen
+01:41:17.137                : en:RenYuS
+01:45:26.136                : en:Nepenthes
+01:50:18.678                : en:MC
+01:51:04.557                : en:DIE KUSSE
+01:55:15.525                : en:Uso to Gukou -Sore mo Mata Ningenrashiitte Kamisama wa Waratteru no-
+01:58:41.013                : en:Kase to Chinou -Sorette Totemo Ningenrashiitte Kamisama wa Waratteru no-
+02:02:11.056                : en:BOWWOW
+02:06:09.428                : en:MC
+02:07:01.313                : en:APOCALYPSE
+02:10:53.745                : en:MC
+02:11:23.775                : en:Karma -Gareki no Mantichoras-
+
