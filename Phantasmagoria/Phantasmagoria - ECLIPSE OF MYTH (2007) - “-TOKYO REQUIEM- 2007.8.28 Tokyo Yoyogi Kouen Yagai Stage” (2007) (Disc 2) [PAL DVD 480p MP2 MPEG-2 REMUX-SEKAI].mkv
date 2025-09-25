@@ -1,0 +1,92 @@
+General
+Unique ID                   : 151376662876726741454397879905075003082 (0x71E215B4E67BFD8E5CB54D349BBAFECA)
+Complete name               : Phantasmagoria - ECLIPSE OF MYTH (2007) - “-TOKYO REQUIEM- 2007.8.28 Tokyo Yoyogi Kouen Yagai Stage” (2007) (Disc 2) [PAL DVD 480p MP2 MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 3.83 GiB
+Duration                    : 1 h 19 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 6 888 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Phantasmagoria - ECLIPSE OF MYTH (2007) - “-TOKYO REQUIEM- 2007.8.28 Tokyo Yoyogi Kouen Yagai Stage” (2007) (Disc 2) [PAL DVD 480p MP2 MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-23 12:48:06 UTC
+Writing application         : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=15
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 1 h 19 min
+Bit rate mode               : Variable
+Bit rate                    : 6 693 kb/s
+Maximum bit rate            : 9 000 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.646
+Time code of first frame    : 01:00:00:00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Closed
+Stream size                 : 3.73 GiB (97%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 192 (0xC0)
+Format                      : MPEG Audio
+Format version              : Version 1
+Format profile              : Layer 2
+Codec ID                    : A_MPEG/L2
+Codec ID/Hint               : MP2
+Duration                    : 1 h 19 min
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 41.667 FPS (1152 SPF)
+Compression mode            : Lossy
+Stream size                 : 109 MiB (3%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Menu
+00:00:00.000                : en:NEO ARK
+00:00:06.006                : en:Unknow zero distance
+00:06:35.395                : en:Material Pain
+00:11:41.200                : en:MC
+00:17:07.026                : en:NEVER REBELLION
+00:17:57.576                : en:Glitter
+00:23:16.395                : en:Suicide Gemini
+00:28:25.203                : en:Gensoukyoku ~Eternal Silence~
+00:33:56.534                : en:Hikari ni Furu Ame
+00:41:34.992                : en:Pixy false
+00:48:01.378                : en:Kyousoukyoku ~Cruel Crucible~
+00:55:16.313                : en:MC
+01:01:39.195                : en:Kami Uta
+01:03:32.308                : en:
+
