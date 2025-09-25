@@ -1,0 +1,104 @@
+General
+Unique ID                   : 172718667554542351307734344956904996708 (0x81F067C6F86516B25F00BFA0A337FF64)
+Complete name               : Phantasmagoria - forbidden -INSANITY of the UNDERWORLD- (2008) [NTSC DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 7.18 GiB
+Duration                    : 2 h 11 min
+Overall bit rate mode       : Constant
+Overall bit rate            : 7 795 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Phantasmagoria - forbidden -INSANITY of the UNDERWORLD- (2008) [NTSC DVD 480p DD MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-23 08:28:53 UTC
+Writing application         : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : Variable
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 2 h 11 min
+Bit rate mode               : Constant
+Bit rate                    : 7 600 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.734
+Time code of first frame    : 00:02:00:00
+Time code source            : Group of pictures header
+Stream size                 : 7.00 GiB (97%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Audio
+ID                          : 2
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 2 h 11 min
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 181 MiB (2%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Dialog Normalization        : -27 dB
+compr                       : -0.28 dB
+mixlevel                    : 105 dB
+roomtyp                     : Small
+dialnorm_Average            : -27 dB
+dialnorm_Minimum            : -27 dB
+dialnorm_Maximum            : -27 dB
+
+Menu
+00:00:00.000                : KAMIJO, MICHIRU, Rockin' Mama MC
+00:05:41.674                : en:IMAGE -Shoumetsu-
+00:09:09.915                : en:NEO ARK
+00:14:26.264                : en:Unknow zero distance
+00:19:26.464                : en:NEVER REBELLION
+00:25:28.926                : en:MC
+00:27:32.717                : en:Glitter
+00:33:03.514                : en:Mikansei to Guilt
+00:38:34.344                : en:IMAGE -Genwaku-
+00:39:47.250                : en:...Lost in thought
+00:44:30.633                : en:Gensoukyoku ~Eternal Silence~
+00:51:54.210                : en:MC
+00:54:07.510                : en:Actuate Eden
+00:58:54.196                : en:Material Pain
+01:03:50.325                : en:fairy times memory
+01:09:23.058                : en:Kyousoukyoku ~Cruel Crucible~
+01:15:24.519                : en:Pixy false
+01:23:19.894                : en:MC
+01:25:46.106                : en:Hikari ni Furu Ame
+01:32:25.539                : en:MC
+01:33:03.577                : en:Vanish...
+01:38:05.345                : en:MC
+01:46:48.167                : en:Kami Uita
+02:10:04.262                : en:Vanish... (Instrumental) (Credits)
+
