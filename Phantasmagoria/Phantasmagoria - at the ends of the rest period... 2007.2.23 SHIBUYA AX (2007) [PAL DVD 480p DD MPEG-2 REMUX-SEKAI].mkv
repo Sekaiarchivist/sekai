@@ -1,0 +1,92 @@
+General
+Unique ID                   : 293923233130378403119400916215956247583 (0xDD1F8E3C0B20C3F753DA5D8CAC20141F)
+Complete name               : Phantasmagoria - at the ends of the rest period... 2007.2.23 SHIBUYA AX (2007) [PAL DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 4.00 GiB
+Duration                    : 2 h 2 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 4 663 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Phantasmagoria - at the ends of the rest period... 2007.2.23 SHIBUYA AX (2007) [PAL DVD 480p DD MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-24 07:20:27 UTC
+Writing application         : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=15
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 2 h 2 min
+Bit rate mode               : Variable
+Bit rate                    : 4 405 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.425
+Stream size                 : 3.78 GiB (94%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+
+Audio
+ID                          : 2
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 2 h 2 min
+Bit rate mode               : Constant
+Bit rate                    : 256 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 225 MiB (5%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Dialog Normalization        : -31 dB
+compr                       : -11.02 dB
+dialnorm_Average            : -31 dB
+dialnorm_Minimum            : -31 dB
+dialnorm_Maximum            : -31 dB
+
+Menu
+00:03:12.000                : NEO ARK
+00:11:11.000                : Actuate Eden
+00:15:32.000                : Glitter
+00:21:13.000                : MC
+00:22:19.000                : Shinsoukyoku ~Variant Jihad~
+00:28:34.000                : Unknow zero distance
+00:33:34.000                : Mikansei to Guilt
+00:39:11.000                : Gensoukyoku ~Eternal Silence~
+00:47:12.000                : ...Lost in thought
+00:51:58.000                : Hikari ni Furu Ame
+00:57:06.000                : NEVER REBELLION
+01:02:32.000                : Material Pain
+01:07:39.000                : Camouflage
+01:11:00.000                : Suicide Gemini
+01:16:29.000                : Kyousoukyoku ~Cruel Crucible~
+01:23:27.000                : Pixy false
+01:31:40.000                : at the ends of the rest period
+01:40:37.000                : fairy times memory
+01:46:53.000                : Kami Uta
+
