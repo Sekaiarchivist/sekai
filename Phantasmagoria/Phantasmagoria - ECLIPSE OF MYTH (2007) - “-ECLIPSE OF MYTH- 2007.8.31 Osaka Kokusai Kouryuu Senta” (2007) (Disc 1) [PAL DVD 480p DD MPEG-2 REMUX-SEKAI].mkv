@@ -1,0 +1,107 @@
+General
+Unique ID                   : 283083506015129553894498816967130322084 (0xD4F7E66CEE858F0BED26F274359594A4)
+Complete name               : Phantasmagoria - ECLIPSE OF MYTH (2007) - “-ECLIPSE OF MYTH- 2007.8.31 Osaka Kokusai Kouryuu Senta” (2007) (Disc 1) [PAL DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 6.95 GiB
+Duration                    : 2 h 57 min
+Overall bit rate mode       : Constant
+Overall bit rate            : 5 595 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Phantasmagoria - ECLIPSE OF MYTH (2007) - “-ECLIPSE OF MYTH- 2007.8.31 Osaka Kokusai Kouryuu Senta” (2007) (Disc 1) [PAL DVD 480p DD MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-23 12:22:44 UTC
+Writing application         : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : Variable
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 2 h 57 min
+Bit rate mode               : Constant
+Bit rate                    : 5 400 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.521
+Time code of first frame    : 00:01:54:29
+Time code source            : Group of pictures header
+Stream size                 : 6.70 GiB (97%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)128 (0x80)
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 2 h 57 min
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 244 MiB (3%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+Dialog Normalization        : -27 dB
+compr                       : -0.28 dB
+mixlevel                    : 105 dB
+roomtyp                     : Small
+dialnorm_Average            : -27 dB
+dialnorm_Minimum            : -27 dB
+dialnorm_Maximum            : -27 dB
+
+Menu
+00:00:00.000                : en:IMAGE -Byakuya-
+00:01:53.880                : en:Soumatou ~PAST SKY~
+00:05:00.566                : en:NEO ARK
+00:11:40.566                : en:NEVER REBELLION
+00:17:00.319                : en:Mikansei to Guilt
+00:22:59.311                : en:(MC) → Shinsoukyoku ~Variant Jihad~
+00:30:56.554                : en:Camouflage
+00:34:19.557                : en:Actuate Eden
+00:38:52.863                : en:IMAGE -Genwaku- → at the ends of the rest period
+00:45:42.372                : en:NIL FRONTIER
+00:51:14.638                : en:...Lost in thought
+00:56:06.930                : en:(MC) → Glitter
+01:02:20.937                : en:Suicide Gemini
+01:07:45.327                : en:Unknow zero distance
+01:12:53.035                : en:Material Pain
+01:18:10.886                : en:(MC) → ...Air (MIRAGE cover)
+01:24:33.935                : en:Kyousoukyoku ~Cruel Crucible~
+01:30:06.501                : en:Pixy false
+01:38:01.242                : en:(MC) → Gensoukyoku ~Eternal Silence~
+01:48:02.075                : en:(MC) → Hikari ni Furu Ame
+01:56:09.362                : en:fairy times memory (MC)
+02:22:22.734                : en:(MC) → Kami Uta
+02:46:04.087                : en:IMAGE -Shoumetsu- → Wasurenagusa
+
