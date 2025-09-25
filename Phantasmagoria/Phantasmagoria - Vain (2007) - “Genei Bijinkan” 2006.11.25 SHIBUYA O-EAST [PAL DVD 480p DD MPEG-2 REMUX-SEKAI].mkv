@@ -1,0 +1,89 @@
+General
+Unique ID                   : 239862317239307501828530792524578839850 (0xB473CD4B4AFF078777F9E2CD26845D2A)
+Complete name               : Phantasmagoria - Vain (2007) - “Genei Bijinkan” 2006.11.25 SHIBUYA O-EAST [PAL DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 2.25 GiB
+Duration                    : 34 min 5 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 9 450 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Phantasmagoria - Vain (2007) - “Genei Bijinkan” 2006.11.25 SHIBUYA O-EAST [PAL DVD 480p DD MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-23 06:39:07 UTC
+Writing application         : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Default
+Format settings, GOP        : Variable
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 34 min 5 s
+Bit rate mode               : Variable
+Bit rate                    : 9 000 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Bottom Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.869
+Time code of first frame    : 00:00:00;00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Closed
+Stream size                 : 2.14 GiB (95%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)128 (0x80)
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 34 min 5 s
+Bit rate mode               : Constant
+Bit rate                    : 448 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 109 MiB (5%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+Dialog Normalization        : -31 dB
+compr                       : -11.02 dB
+dialnorm_Average            : -31 dB
+dialnorm_Minimum            : -31 dB
+dialnorm_Maximum            : -31 dB
+
+Menu
+00:00:00.066                : en:Pixy false
+00:06:49.976                : en:Suicide Gemini
+00:12:40.826                : en:Shinsoukyoku ~Variant Jihad~
+00:19:01.106                : en:Hikari ni Furu Ame
+00:23:57.436                : en:Unknow zero distance
+00:28:56.101                : en:Glitter
+
