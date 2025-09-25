@@ -1,0 +1,103 @@
+General
+Unique ID                   : 105336275624696357220641584355893369084 (0x4F3F075BDEDAE402D620BCBBD188D8FC)
+Complete name               : Phantasmagoria - forbidden -INSANITY of the UNDERWORLD- (2008) (Bonus Disc) [PAL DVD 480p DD MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 4.20 GiB
+Duration                    : 1 h 51 min
+Overall bit rate mode       : Variable
+Overall bit rate            : 5 399 kb/s
+Frame rate                  : 29.970 FPS
+Movie name                  : Phantasmagoria - forbidden -INSANITY of the UNDERWORLD- (2008) (Bonus Disc) [PAL DVD 480p DD MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-23 09:20:44 UTC
+Writing application         : mkvmerge v95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : M=3, N=15
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 1 h 51 min
+Bit rate mode               : Variable
+Bit rate                    : 5 205 kb/s
+Maximum bit rate            : 8 500 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.502
+Time code of first frame    : 01:00:00:00
+Time code source            : Group of pictures header
+GOP, Open/Closed            : Closed
+Stream size                 : 4.05 GiB (96%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)128 (0x80)
+Format                      : AC-3
+Format/Info                 : Audio Coding 3
+Commercial name             : Dolby Digital
+Codec ID                    : A_AC3
+Duration                    : 1 h 51 min
+Bit rate mode               : Constant
+Bit rate                    : 192 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 31.250 FPS (1536 SPF)
+Compression mode            : Lossy
+Stream size                 : 153 MiB (4%)
+Language                    : Japanese
+Service kind                : Complete Main
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+Dialog Normalization        : -31 dB
+compr                       : -11.02 dB
+dialnorm_Average            : -31 dB
+dialnorm_Minimum            : -31 dB
+dialnorm_Maximum            : -31 dB
+
+Menu
+00:00:00.000                : en:Marvel (Mar'derayla cover)
+00:04:49.789                : en:Material Pain
+00:10:08.608                : en:Mikansei to Guilt
+00:14:47.887                : en:1/3 no Shitsujou (HISKAREA cover)
+00:20:26.725                : en:Glitter
+00:25:58.056                : en:VISUAL ROCK GATE 2008.4.05
+00:31:24.382                : en:VISUAL ROCK GATE 2008.4.12
+00:37:07.725                : en:VISUAL ROCK GATE 2008.4.19
+00:41:17.475                : en:VISUAL ROCK GATE 2008.4.26
+00:45:27.224                : en:Pixy false
+00:47:17.334                : en:Hikari ni Furu Ame
+00:52:56.173                : en:MC
+00:55:01.798                : en:Kami Uta
+01:04:47.383                : en:NEO ARK
+01:10:58.254                : en:Material Pain
+01:16:23.579                : en:Hikari ni Furu Ame
+01:22:58.974                : en:Kyousoukyoku ~Cruel Crucible~
+01:29:03.838                : en:Pixy false
+01:36:21.776                : en:Kami Uta
+
