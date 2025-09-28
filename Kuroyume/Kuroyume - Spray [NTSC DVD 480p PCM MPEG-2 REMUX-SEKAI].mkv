@@ -1,0 +1,74 @@
+General
+Unique ID                   : 103045561750466488896729704218909741579 (0x4D85DA71F195B5807C033DA03838120B)
+Complete name               : Kuroyume - Spray [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 268 MiB
+Duration                    : 3 min 52 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 9 668 kb/s
+Frame rate                  : 29.970 FPS
+Title                       : Kuroyume - Spray [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Encoded date                : 2025-09-28 04:27:01 UTC
+Writing application         : mkvmerge 95.0 ('Goodbye Stranger') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 224 (0xE0)
+Format                      : MPEG Video
+Format version              : Version 2
+Format profile              : Main@Main
+Format settings             : CustomMatrix / BVOP
+Format settings, BVOP       : Yes
+Format settings, Matrix     : Custom
+Format settings, GOP        : Variable
+Format settings, picture st : Frame
+Codec ID                    : V_MPEG2
+Codec ID/Info               : MPEG 1 or 2 Video
+Duration                    : 3 min 52 s
+Bit rate mode               : Variable
+Bit rate                    : 8 130 kb/s
+Maximum bit rate            : 9 800 kb/s
+Width                       : 720 pixels
+Height                      : 480 pixels
+Display aspect ratio        : 4:3
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Standard                    : NTSC
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Interlaced
+Scan order                  : Top Field First
+Compression mode            : Lossy
+Bits/(Pixel*Frame)          : 0.785
+Time code of first frame    : 01:45:44:18
+Time code source            : Group of pictures header
+Stream size                 : 226 MiB (84%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
+Audio
+ID                          : 2
+ID in the original source m : 189 (0xBD)160 (0xA0)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 3 min 52 s
+Bit rate mode               : Constant
+Bit rate                    : 1 536 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 25.000 FPS (1920 SPF)
+Bit depth                   : 16 bits
+Delay relative to video     : 29 ms
+Stream size                 : 42.6 MiB (16%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : DVD-Video
+
