@@ -1,0 +1,57 @@
+﻿General
+Unique ID                                : 102458100107815595299527162174677029 (0x13BB93089833CC399EA90B2DCCA025)
+Complete name                            : Ado - Fleeting Lullaby [WEB-DL 2160p AAC x265-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 520 MiB
+Duration                                 : 3 min 3 s
+Overall bit rate                         : 23.8 Mb/s
+Frame rate                               : 30.000 FPS
+Title                                    : Ado - Fleeting Lullaby [WEB-DL 2160p AAC x265-SEKAI]
+Encoded date                             : 2025-09-27 14:10:51 UTC
+Writing application                      : mkvmerge 95.0 ('Goodbye Stranger') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 3 min 3 s
+Bit rate                                 : 23.6 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 30.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.095
+Stream size                              : 515 MiB (99%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 3 min 3 s
+Bit rate                                 : 254 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 5.56 MiB (1%)
+Default                                  : Yes
+Forced                                   : No
+
+
