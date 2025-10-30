@@ -8,7 +8,7 @@ Duration                                 : 4 min 13 s
 Overall bit rate mode                    : Variable
 Overall bit rate                         : 8 560 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : An Cafe - Natsu KoiΓÿàNatsu GAME [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
+Title                                    : An Cafe - Natsu Koi★Natsu GAME [NTSC DVD 480p PCM MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2025-09-12 11:06:14 UTC
 Writing application                      : mkvmerge 94.0 ('Initiate') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
@@ -71,5 +71,6 @@ Language                                 : Japanese
 Default                                  : Yes
 Forced                                   : No
 Original source medium                   : DVD-Video
+
 
 
