@@ -1,0 +1,79 @@
+﻿General
+Unique ID                                : 229532072612562156421785243811364486911 (0xACAE44E94121311DE421F05C09683EFF)
+Complete name                            : FLOW - Kaze no Uta [WEB-DL 1080p AAC x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 318 MiB
+Duration                                 : 4 min 23 s
+Overall bit rate                         : 10.1 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : FLOW - Kaze no Uta [WEB-DL 1080p AAC x264-SEKAI]
+Encoded date                             : 2025-09-27 14:06:18 UTC
+Writing application                      : mkvmerge 95.0 ('Goodbye Stranger') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Cover                                    : Yes
+Cover description                        : cover.jpg
+Cover type                               : Cover
+Attachments                              : cover.jpg
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 23 s
+Bit rate                                 : 9 799 kb/s
+Width                                    : 1 916 pixels
+Height                                   : 868 pixels
+Display aspect ratio                     : 2.2:1
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.197
+Stream size                              : 308 MiB (97%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 23 s
+Bit rate                                 : 276 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 8.69 MiB (3%)
+Default                                  : Yes
+Forced                                   : No
+
+Image
+Type                                     : Cover
+Title                                    : cover.jpg
+Format                                   : JPEG
+Muxing mode                              : Attachment
+Width                                    : 5 000 pixels
+Height                                   : 2 813 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 1.24 MiB (0%)
+
+
