@@ -1,0 +1,71 @@
+﻿General
+Unique ID                                : 97583041596723519131239838593663962914 (0x4969CF68738D57213C5FE24734510F22)
+Complete name                            : BUCK-TICK - RENDEZVOUS [BluRay 1080p PCM AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.22 GiB
+Duration                                 : 4 min 57 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 35.1 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : BUCK-TICK - RENDEZVOUS [BluRay 1080p PCM AVC REMUX-SEKAI]
+Encoded date                             : 2025-10-29 12:45:28 UTC
+Writing application                      : mkvmerge 95.0 ('Goodbye Stranger') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 57 s
+Bit rate mode                            : Variable
+Bit rate                                 : 32.8 Mb/s
+Maximum bit rate                         : 40.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.528
+Time code of first frame                 : 01:14:45:24
+Stream size                              : 1.14 GiB (93%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 4352 (0x1100)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 4 min 57 s
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 24 bits
+Delay relative to video                  : 21 ms
+Stream size                              : 81.8 MiB (7%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+
