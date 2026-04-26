@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 240954580878414330953835704091208137874 (0xB5462A0C9F50D0C358FFCA77A1513C92)
+Complete name                            : Alien Liberty International - VIM (Re-edit ver.) [WEB-DL 1080p AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 445 MiB
+Duration                                 : 5 min 51 s
+Overall bit rate                         : 10.6 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Alien Liberty International - VIM (Re-edit ver.) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-04-25 19:36:43 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 5 min 51 s
+Bit rate                                 : 10.4 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.167
+Stream size                              : 435 MiB (98%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 5 min 51 s
+Bit rate                                 : 252 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 10.5 MiB (2%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+

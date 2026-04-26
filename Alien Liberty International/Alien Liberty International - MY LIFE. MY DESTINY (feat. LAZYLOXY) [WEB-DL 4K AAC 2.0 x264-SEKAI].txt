@@ -1,0 +1,76 @@
+﻿General
+Unique ID                                : 295178517168549489945349988069711534593 (0xDE115084160729CBDDA67878778BDA01)
+Complete name                            : Alien Liberty International - MY LIFE. MY DESTINY (feat. LAZYLOXY) [WEB-DL 4K AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 610 MiB
+Duration                                 : 4 min 6 s
+Overall bit rate                         : 20.7 Mb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Alien Liberty International - MY LIFE. MY DESTINY (feat. LAZYLOXY) [WEB-DL 4K AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-04-25 19:27:36 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Cover                                    : Yes
+Cover description                        : cover.jpg
+Cover type                               : Cover
+Attachments                              : cover.jpg
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : HEVC
+Format/Info                              : High Efficiency Video Coding
+Format profile                           : Main 10@L5@High
+Codec ID                                 : V_MPEGH/ISO/HEVC
+Duration                                 : 4 min 6 s
+Bit rate                                 : 20.4 Mb/s
+Width                                    : 3 840 pixels
+Height                                   : 2 160 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (23976/1000) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Bits/(Pixel*Frame)                       : 0.103
+Stream size                              : 600 MiB (98%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 6 s
+Bit rate                                 : 277 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 8.14 MiB (1%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Image
+Type                                     : Cover
+Title                                    : cover.jpg
+Format                                   : JPEG
+Muxing mode                              : Attachment
+Width                                    : 5 000 pixels
+Height                                   : 2 813 pixels
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Compression mode                         : Lossy
+Stream size                              : 1.55 MiB (0%)
+
+
