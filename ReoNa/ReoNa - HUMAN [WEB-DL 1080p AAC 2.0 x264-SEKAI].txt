@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 239998821128664300317206854262224834237 (0xB48E177499BD0E83DD7DD52B0683CEBD)
+Complete name                            : ReoNa - HUMAN [WEB-DL 1080p AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 279 MiB
+Duration                                 : 5 min 42 s
+Overall bit rate                         : 6 830 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : ReoNa - HUMAN [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-04-26 16:13:41 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 5 min 42 s
+Bit rate                                 : 6 553 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.105
+Stream size                              : 267 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 5 min 42 s
+Bit rate                                 : 275 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 11.2 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+

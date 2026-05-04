@@ -1,0 +1,73 @@
+﻿General
+Unique ID                                : 174102809761374087422274945518816829278 (0x82FAFB41C210A9E600A8DC39D2E19F5E)
+Complete name                            : ReoNa - ONE-MAN Live “Birth 2019” Live Video (2020) [BluRay 1080p 24-48 PCM 2.0 AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 11.5 GiB
+Duration                                 : 43 min 11 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 38.1 Mb/s
+Frame rate                               : 23.976 FPS
+Title                                    : ReoNa - ONE-MAN Live ΓÇ£Birth 2019ΓÇ¥ Live Video (2020) [BluRay 1080p 24-48 PCM 2.0 AVC REMUX-SEKAI]
+Encoded date                             : 2026-04-26 14:59:00 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 43 min 11 s
+Bit rate mode                            : Variable
+Bit rate                                 : 35.8 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.720
+Time code of first frame                 : 01:00:00:00
+Stream size                              : 10.8 GiB (94%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 43 min 11 s
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 24 bits
+Stream size                              : 712 MiB (6%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Kaibutsu no Uta
+00:04:26.266                             : en:forget-me-not
+00:08:57.036                             : en:Canaria
+00:14:32.955                             : en:Pilgrim
+00:18:45.958                             : en:Niji no Kanata ni
+00:25:26.024                             : en:Toushindai
+00:30:50.682                             : en:ALONE
+00:36:18.176                             : en:Till the End
+
+
