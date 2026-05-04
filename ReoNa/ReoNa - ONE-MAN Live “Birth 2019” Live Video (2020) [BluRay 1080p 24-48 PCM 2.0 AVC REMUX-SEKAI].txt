@@ -1,4 +1,6 @@
-﻿General
+This concert was REMUXED from ReoNa - unknown (Complete Limited Edition) Blu-ray.
+
+General
 Unique ID                                : 174102809761374087422274945518816829278 (0x82FAFB41C210A9E600A8DC39D2E19F5E)
 Complete name                            : ReoNa - ONE-MAN Live “Birth 2019” Live Video (2020) [BluRay 1080p 24-48 PCM 2.0 AVC REMUX-SEKAI].mkv
 Format                                   : Matroska
