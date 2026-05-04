@@ -1,0 +1,110 @@
+﻿General
+Unique ID                                : 82128564288959944748448652780105590521 (0x3DC962D91CA299D3E94520CDB6DF66F9)
+Complete name                            : ikimonogakari - Itsudatte Bokura wa [BluRay 1080i 24-96 PCM 2.0 AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.20 GiB
+Duration                                 : 4 min 37 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 37.2 Mb/s
+Frame rate                               : 59.940 FPS
+Title                                    : ikimonogakari - Itsudatte Bokura wa [BluRay 1080i 24-96 PCM 2.0 AVC REMUX-SEKAI]
+Encoded date                             : 2026-03-06 10:05:49 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 4113 (0x1011)
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 2 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 2 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 37 s
+Bit rate mode                            : Variable
+Bit rate                                 : 31.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 59.940 (59940/1000) FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan type, store method                  : Separated fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.250
+Time code of first frame                 : 02:03:29:15
+Stream size                              : 1.00 GiB (83%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Audio #1
+ID                                       : 2
+ID in the original source medium         : 4352 (0x1100)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 4 min 37 s
+Bit rate mode                            : Constant
+Bit rate                                 : 4 608 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 96.0 kHz
+Frame rate                               : 25.000 FPS (3840 SPF)
+Bit depth                                : 24 bits
+Delay relative to video                  : 10 ms
+Stream size                              : 152 MiB (12%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Audio #2
+ID                                       : 3
+ID in the original source medium         : 4353 (0x1101)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 4 min 37 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Delay relative to video                  : 10 ms
+Stream size                              : 50.8 MiB (4%)
+Title                                    : Commentary
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+Text
+ID                                       : 4
+ID in the original source medium         : 4608 (0x1200)
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 3 min 46 s
+Bit rate                                 : 51.1 kb/s
+Frame rate                               : 0.269 FPS
+Count of elements                        : 61
+Stream size                              : 1.38 MiB (0%)
+Title                                    : Japanese Subtitle
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : Blu-ray
+
+
