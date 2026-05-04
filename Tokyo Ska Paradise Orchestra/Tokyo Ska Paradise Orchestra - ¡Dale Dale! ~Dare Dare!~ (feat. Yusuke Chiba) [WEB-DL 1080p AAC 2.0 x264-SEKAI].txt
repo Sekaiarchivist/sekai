@@ -7,7 +7,7 @@ File size                                : 197 MiB
 Duration                                 : 2 min 45 s
 Overall bit rate                         : 10.0 Mb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Tokyo Ska Paradise Orchestra - ┬íDale Dale! ~Dare Dare!~ (feat. Yusuke Chiba) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Title                                    : Tokyo Ska Paradise Orchestra - ¡Dale Dale! ~Dare Dare!~ (feat. Yusuke Chiba) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
 Encoded date                             : 2026-05-02 08:51:29 UTC
 Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
