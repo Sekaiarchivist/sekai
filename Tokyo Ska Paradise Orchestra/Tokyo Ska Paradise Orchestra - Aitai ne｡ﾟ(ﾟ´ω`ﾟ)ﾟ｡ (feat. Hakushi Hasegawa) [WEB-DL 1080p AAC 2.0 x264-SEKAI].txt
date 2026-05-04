@@ -7,7 +7,7 @@ File size                                : 275 MiB
 Duration                                 : 3 min 57 s
 Overall bit rate                         : 9 719 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Tokyo Ska Paradise Orchestra - Aitai ne∩╜í∩╛ƒ(∩╛ƒ┬┤╧ë`∩╛ƒ)∩╛ƒ∩╜í (feat. Hakushi Hasegawa) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Title                                    : Tokyo Ska Paradise Orchestra - Aitai ne｡ﾟ(ﾟ´ω`ﾟ)ﾟ｡ (feat. Hakushi Hasegawa) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
 Encoded date                             : 2026-05-02 09:50:30 UTC
 Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
