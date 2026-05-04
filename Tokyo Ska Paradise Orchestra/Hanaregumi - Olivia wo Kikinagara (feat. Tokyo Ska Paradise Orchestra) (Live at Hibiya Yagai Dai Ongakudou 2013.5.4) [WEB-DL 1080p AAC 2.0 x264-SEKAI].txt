@@ -1,81 +1,63 @@
-﻿General
-Unique ID                                : 159030374352863133105511534766616664347 (0x77A422D11D3AA0E91854C0CB8696D91B)
-Complete name                            : Hanaregumi - Olivia wo Kikinagara (feat. Tokyo Ska Paradise Orchestra) (Live at Hibiya Yagai Dai Ongakudou 2013.5.4) [WEB-DL 1080p AAC 2.0 x264-SEKAI].mkv
-Format                                   : Matroska
-Format version                           : Version 4
-File size                                : 503 MiB
-Duration                                 : 6 min 57 s
-Overall bit rate                         : 10.1 Mb/s
-Frame rate                               : 29.970 FPS
-Title                                    : Hanaregumi - Olivia wo Kikinagara (feat. Tokyo Ska Paradise Orchestra) (Live at Hibiya Yagai Dai Ongakudou 2013.5.4) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
-Encoded date                             : 2026-05-02 09:21:30 UTC
-Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
-Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
-Cover                                    : Yes
-Cover description                        : cover.jpg
-Cover type                               : Cover
-Attachments                              : cover.jpg
-Website                                  : https://sekai-archivist.blogspot.com/
+General
+Unique ID                   : 63531987674163198023323430904123789344 (0x2FCBD0D4EA01B7D8D2C53C5AE26A9020)
+Complete name               : Hanaregumi - Olivia wo Kikinagara (feat. Tokyo Ska Paradise Orchestra) (Live at Hibiya Yagai Dai Ongakudou 2013.5.4) [WEB-DL 1080p AAC 2.0 x264-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 500 MiB
+Duration                    : 6 min 57 s
+Overall bit rate            : 10.0 Mb/s
+Frame rate                  : 29.970 FPS
+Title                       : Hanaregumi - Olivia wo Kikinagara (feat. Tokyo Ska Paradise Orchestra) (Live at Hibiya Yagai Dai Ongakudou 2013.5.4) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Encoded date                : 2026-05-04 03:42:05 UTC
+Writing application         : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
 
 Video
-ID                                       : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format profile                           : High@L4
-Format settings                          : CABAC / 4 Ref Frames
-Format settings, CABAC                   : Yes
-Format settings, Reference frames        : 4 frames
-Format settings, Slice count             : 8 slices per frame
-Codec ID                                 : V_MPEG4/ISO/AVC
-Duration                                 : 6 min 57 s
-Bit rate                                 : 9 789 kb/s
-Width                                    : 1 920 pixels
-Height                                   : 1 080 pixels
-Display aspect ratio                     : 16:9
-Frame rate mode                          : Constant
-Frame rate                               : 29.970 (30000/1001) FPS
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0 (Type 2)
-Bit depth                                : 8 bits
-Scan type                                : Progressive
-Bits/(Pixel*Frame)                       : 0.158
-Stream size                              : 488 MiB (97%)
-Language                                 : Japanese
-Default                                  : Yes
-Forced                                   : No
-Color range                              : Limited
-Color primaries                          : BT.709
-Transfer characteristics                 : BT.709
-Matrix coefficients                      : BT.709
+ID                          : 1
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 8 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 6 min 57 s
+Bit rate                    : 9 789 kb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 29.970 (30000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0 (Type 2)
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.158
+Stream size                 : 488 MiB (97%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Color range                 : Limited
+Color primaries             : BT.709
+Transfer characteristics    : BT.709
+Matrix coefficients         : BT.709
 
 Audio
-ID                                       : 2
-Format                                   : AAC LC
-Format/Info                              : Advanced Audio Codec Low Complexity
-Codec ID                                 : A_AAC-2
-Duration                                 : 6 min 57 s
-Bit rate                                 : 253 kb/s
-Channel(s)                               : 2 channels
-Channel layout                           : L R
-Sampling rate                            : 48.0 kHz
-Frame rate                               : 46.875 FPS (1024 SPF)
-Compression mode                         : Lossy
-Stream size                              : 12.6 MiB (3%)
-Language                                 : Japanese
-Default                                  : Yes
-Forced                                   : No
-
-Image
-Type                                     : Cover
-Title                                    : cover.jpg
-Format                                   : JPEG
-Muxing mode                              : Attachment
-Width                                    : 5 000 pixels
-Height                                   : 2 813 pixels
-Color space                              : YUV
-Chroma subsampling                       : 4:2:0
-Bit depth                                : 8 bits
-Compression mode                         : Lossy
-Stream size                              : 2.43 MiB (0%)
-
+ID                          : 2
+Format                      : AAC LC
+Format/Info                 : Advanced Audio Codec Low Complexity
+Codec ID                    : A_AAC-2
+Duration                    : 6 min 57 s
+Bit rate                    : 253 kb/s
+Channel(s)                  : 2 channels
+Channel layout              : L R
+Sampling rate               : 48.0 kHz
+Frame rate                  : 46.875 FPS (1024 SPF)
+Compression mode            : Lossy
+Stream size                 : 12.6 MiB (3%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
 
