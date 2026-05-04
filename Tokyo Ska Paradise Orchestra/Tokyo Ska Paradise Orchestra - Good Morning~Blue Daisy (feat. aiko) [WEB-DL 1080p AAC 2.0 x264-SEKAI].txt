@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 175711675688077742931011963209289134318 (0x8430D678A8BF16843481C7DC697970EE)
+Complete name                            : Tokyo Ska Paradise Orchestra - Good Morning~Blue Daisy (feat. aiko) [WEB-DL 1080p AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 219 MiB
+Duration                                 : 4 min 30 s
+Overall bit rate                         : 6 796 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Tokyo Ska Paradise Orchestra - Good Morning~Blue Daisy (feat. aiko) [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-05-02 08:56:23 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 30 s
+Bit rate                                 : 6 542 kb/s
+Width                                    : 1 916 pixels
+Height                                   : 804 pixels
+Display aspect ratio                     : 2.39:1
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.142
+Stream size                              : 211 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 30 s
+Bit rate                                 : 251 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 8.10 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
