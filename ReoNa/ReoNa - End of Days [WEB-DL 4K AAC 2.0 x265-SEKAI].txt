@@ -1,13 +1,13 @@
 ﻿General
 Unique ID                                : 265955242257556865107521425211482450559 (0xC8151DD27D36C2305531FEB0E0C42A7F)
-Complete name                            : ReoNa - End of Days [WEB-DL 4K AAC 2.0 x264-SEKAI].mkv
+Complete name                            : ReoNa - End of Days [WEB-DL 4K AAC 2.0 x265-SEKAI].mkv
 Format                                   : Matroska
 Format version                           : Version 4
 File size                                : 350 MiB
 Duration                                 : 4 min 4 s
 Overall bit rate                         : 12.0 Mb/s
 Frame rate                               : 23.976 FPS
-Title                                    : ReoNa - End of Days [WEB-DL 4K AAC 2.0 x264-SEKAI]
+Title                                    : ReoNa - End of Days [WEB-DL 4K AAC 2.0 x265-SEKAI]
 Encoded date                             : 2026-04-26 16:11:16 UTC
 Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
