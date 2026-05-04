@@ -8,7 +8,7 @@ Duration                                 : 4 min 30 s
 Overall bit rate mode                    : Variable
 Overall bit rate                         : 8 979 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : HIGH and MIGHTY COLOR - RUNΓÿåRUNΓÿåRUN [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Title                                    : HIGH and MIGHTY COLOR - RUN☆RUN☆RUN [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2026-03-06 04:23:23 UTC
 Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
