@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 142432186394070432307351060296396197303 (0x6B2770F7DCEA31B96A51AD7DC65C4DB7)
+Complete name                            : CHANMINA - BIJIN [WEB-DL 1080p AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 336 MiB
+Duration                                 : 6 min 51 s
+Overall bit rate                         : 6 859 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : CHANMINA - BIJIN [WEB-DL 1080p AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-05-02 19:13:16 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 6 min 51 s
+Bit rate                                 : 6 594 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 968 pixels
+Display aspect ratio                     : 1.983
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.148
+Stream size                              : 323 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 6 min 51 s
+Bit rate                                 : 265 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 12.9 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
