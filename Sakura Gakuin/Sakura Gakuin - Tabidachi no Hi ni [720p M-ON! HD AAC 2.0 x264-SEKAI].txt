@@ -1,0 +1,65 @@
+﻿General
+Unique ID                                : 156159136235468309557025047827514253330 (0x757B27D91B9E605D997479520515E012)
+Complete name                            : Sakura Gakuin - Tabidachi no Hi ni [720p M-ON! HD AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 71.4 MiB
+Duration                                 : 4 min 0 s
+Overall bit rate                         : 2 484 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Sakura Gakuin - Tabidachi no Hi ni [720p M-ON! HD AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-05-07 11:37:19 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 0 s
+Bit rate                                 : 2 337 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.106
+Stream size                              : 67.1 MiB (94%)
+Writing library                          : x264 core 165 r3222 b35605a
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:-1:-1 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=24 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=18 / lookahead_threads=3 / sliced_threads=0 / nr=0 / decimate=1 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=240 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=60 / rc=crf / mbtree=1 / crf=18.0 / qcomp=0.70 / qpmin=0 / qpmax=69 / qpstep=4 / ip_ratio=1.40 / aq=3:0.80
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 0 s
+Bit rate                                 : 144 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 4.17 MiB (6%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
