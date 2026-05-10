@@ -1,0 +1,23 @@
+# THIS PV WAS ENCODED BY SEKAI ARCHIVIST.
+
+x264 [info]: frame I:28    Avg QP:16.06  size: 81937
+x264 [info]: frame P:1326  Avg QP:19.30  size: 24805
+x264 [info]: frame B:4422  Avg QP:25.40  size:  4807
+x264 [info]: consecutive B-frames:  1.6%  2.1%  7.1% 39.6% 17.3% 20.6%  9.1%  1.7%  0.9%
+x264 [info]: mb I  I16..4: 16.3% 62.6% 21.1%
+x264 [info]: mb P  I16..4:  4.5%  5.7%  0.6%  P16..4: 44.2% 14.9% 13.6%  0.4%  0.1%    skip:16.1%
+x264 [info]: mb B  I16..4:  0.2%  0.2%  0.0%  B16..8: 32.8%  4.1%  1.0%  direct: 4.3%  skip:57.3%  L0:40.4% L1:48.2% BI:11.4%
+x264 [info]: 8x8 transform intra:53.5% inter:63.1%
+x264 [info]: direct mvs  spatial:99.9% temporal:0.1%
+x264 [info]: coded y,uvDC,uvAC intra: 36.7% 40.1% 19.1% inter: 11.9% 9.8% 0.5%
+x264 [info]: i16 v,h,dc,p: 57% 30%  6%  7%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 12%  8% 31%  7%  9% 10%  8%  9%  8%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 19%  7% 11%  9% 12% 14%  9% 11%  9%
+x264 [info]: i8c dc,h,v,p: 46% 29% 19%  6%
+x264 [info]: Weighted P-Frames: Y:12.7% UV:8.4%
+x264 [info]: ref P L0: 58.2% 11.5% 22.0%  8.0%  0.4%  0.0%
+x264 [info]: ref B L0: 86.5% 11.7%  1.8%
+x264 [info]: ref B L1: 95.9%  4.1%
+x264 [info]: kb/s:1874.31
+
+encoded 5776 frames, 14.89 fps, 1874.34 kb/s
