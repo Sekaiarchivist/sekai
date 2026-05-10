@@ -1,0 +1,71 @@
+﻿General
+Unique ID                                : 242209727881718719381414154060895795599 (0xB637E5930AAE3C8EA291BFA2AB2EB98F)
+Complete name                            : Bergerac - Azalea [NTSC DVD 480i MP2 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 285 MiB
+Duration                                 : 4 min 16 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 9 336 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Bergerac - Azalea [NTSC DVD 480i MP2 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-01-16 16:59:08 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 4 min 16 s
+Bit rate mode                            : Constant
+Bit rate                                 : 9 112 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.880
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+Stream size                              : 278 MiB (98%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : A_MPEG/L2
+Codec ID/Hint                            : MP2
+Duration                                 : 4 min 16 s
+Bit rate mode                            : Constant
+Bit rate                                 : 224 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 41.667 FPS (1152 SPF)
+Compression mode                         : Lossy
+Stream size                              : 6.84 MiB (2%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
