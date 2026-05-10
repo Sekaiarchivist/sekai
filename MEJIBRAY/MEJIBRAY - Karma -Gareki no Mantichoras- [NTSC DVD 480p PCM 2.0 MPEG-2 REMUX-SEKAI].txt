@@ -1,0 +1,76 @@
+﻿General
+Unique ID                                : 197425680134961172761842473347555653079 (0x9486CD8BEC174A52D36CD718C28DF5D7)
+Complete name                            : MEJIBRAY - Karma -Gareki no Mantichoras- [NTSC DVD 480p PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 335 MiB
+Duration                                 : 5 min 4 s
+Overall bit rate mode                    : Constant
+Overall bit rate                         : 9 235 kb/s
+Frame rate                               : 29.788 FPS
+Title                                    : MEJIBRAY - Karma -Gareki no Mantichoras- [NTSC DVD 480p PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-01-16 04:09:39 UTC
+Writing application                      : mkvmerge v97.0 ('You Don't Have A Clue') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 5 min 4 s
+Bit rate mode                            : Constant
+Bit rate                                 : 7 700 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.788 FPS
+Original frame rate                      : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Scan order                               : 2:3 Pulldown
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.748
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+Stream size                              : 279 MiB (83%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+Original source medium                   : DVD-Video
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 189 (0xBD)160 (0xA0)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 5 min 4 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 55.7 MiB (17%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+
