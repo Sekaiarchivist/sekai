@@ -72,8 +72,8 @@ Forced                                   : No
 Original source medium                   : DVD-Video
 
 Menu
-00:00:00.000                             : en:Sakura Gakuin FestivalΓÿå2013 ~Go Home Club sleepiece Final Stage~: Suimin Fusoku
-00:04:23.263                             : en:Sakura Gakuin FestivalΓÿå2013 ~Go Home Club sleepiece Final Stage~: Hashire Shoujiki Mono
-00:13:25.171                             : en:Sakura Gakuin FestivalΓÿå2013 ~Go Home Club sleepiece Final Stage~: Medaka no Kyoudai
+00:00:00.000                             : en:Sakura Gakuin Festival☆2013 ~Go Home Club sleepiece Final Stage~: Suimin Fusoku
+00:04:23.263                             : en:Sakura Gakuin Festival☆2013 ~Go Home Club sleepiece Final Stage~: Hashire Shoujiki Mono
+00:13:25.171                             : en:Sakura Gakuin Festival☆2013 ~Go Home Club sleepiece Final Stage~: Medaka no Kyoudai
 
 
