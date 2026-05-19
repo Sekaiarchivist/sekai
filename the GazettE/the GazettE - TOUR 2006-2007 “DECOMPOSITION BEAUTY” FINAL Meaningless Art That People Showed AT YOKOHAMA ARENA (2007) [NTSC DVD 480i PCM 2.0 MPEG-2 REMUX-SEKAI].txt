@@ -8,7 +8,7 @@ Duration                                 : 2 h 11 min
 Overall bit rate mode                    : Variable
 Overall bit rate                         : 7 782 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : the GazettE - TOUR 2006-2007 ΓÇ£DECOMPOSITION BEAUTYΓÇ¥ FINAL Meaningless Art That People Showed AT YOKOHAMA ARENA (2007) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Title                                    : the GazettE - TOUR 2006-2007 “DECOMPOSITION BEAUTY” FINAL Meaningless Art That People Showed AT YOKOHAMA ARENA [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2026-05-19 17:58:54 UTC
 Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
 Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
