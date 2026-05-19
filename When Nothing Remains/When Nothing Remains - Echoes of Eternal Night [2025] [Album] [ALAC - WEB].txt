@@ -7,9 +7,9 @@
 |    02    | A Glimmer of Hope                                            |   10:30  |  72 MB  |
 |    03    | Everything Ends                                              |   10:40  |  71 MB  |
 |    04    | A Ceaseless Rain                                             |   11:20  |  78 MB  |
-|    05    | In the Woods of Darkest Despair (Bonus)                      |   6:56   |  47 MB  |
-|    06    | Our Final Hours (Bonus)                                      |   5:07   |  35 MB  |
-|    07    | Behind the Clouds (Bonus)                                    |   5:08   |  34 MB  |
-|    08    | Gospel of Apostasy (Bonus)                                   |   3:26   |  16 MB  |
+|    05    | In the Woods of Darkest Despair                              |   6:56   |  47 MB  |
+|    06    | Our Final Hours                                              |   5:07   |  35 MB  |
+|    07    | Behind the Clouds                                            |   5:08   |  34 MB  |
+|    08    | Gospel of Apostasy                                           |   3:26   |  16 MB  |
 |----------|--------------------------------------------------------------|----------|---------|
 
