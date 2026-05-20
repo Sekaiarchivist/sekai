@@ -1,0 +1,74 @@
+﻿General
+Unique ID                                : 223449810204137266555954877544757473580 (0xA81ADE38C91C09BEEAC5ED831C50312C)
+Complete name                            : MEJIBRAY - VENOMS [NTSC DVD 480p PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 290 MiB
+Duration                                 : 6 min 9 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 590 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : MEJIBRAY - VENOMS [NTSC DVD 480p PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-05-20 05:38:04 UTC
+Writing application                      : mkvmerge 98.0 ('Chonks') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 6 min 9 s
+Bit rate mode                            : Variable
+Bit rate                                 : 5 052 kb/s
+Maximum bit rate                         : 8 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Scan order                               : 2:3 Pulldown
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.610
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+GOP, Open/Closed of first frame          : Closed
+Stream size                              : 222 MiB (77%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 6 min 9 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 67.6 MiB (23%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
