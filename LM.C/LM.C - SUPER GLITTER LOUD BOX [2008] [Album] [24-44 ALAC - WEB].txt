@@ -4,7 +4,7 @@
 |   TRACK  |                             TITLE                            | DURATION |   SIZE  |
 |----------|--------------------------------------------------------------|----------|---------|
 |    01    | NO.9 (ver. SGLB)                                             |   1:53   |  23 MB  |
-|    02    | ☆Rock the LM.C☆                                              |   4:24   |  57 MB  |
+|    02    | ☆Rock the LM.C☆                                             |   4:24   |  57 MB  |
 |    03    | Loud_Mucker_Complex (ver. SGLB)                              |   3:06   |  40 MB  |
 |    04    | OH MY JULIET.                                                |   3:40   |  48 MB  |
 |    05    | @FUNNY PHANTOM@                                              |   4:26   |  58 MB  |
