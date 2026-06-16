@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 20128252959206289683994566438267065322 (0xF248F7D99428CF8992B76CF8ADB13EA)
+Complete name                            : Kocchi no Kento - Hai Yorokonde (English ver.) [WEB-DL 720p AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 80.8 MiB
+Duration                                 : 2 min 42 s
+Overall bit rate                         : 4 160 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Kocchi no Kento - Hai Yorokonde (English ver.) [WEB-DL 720p AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-06-16 05:29:18 UTC
+Writing application                      : mkvmerge 99.0 ('Buka') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L3.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 min 42 s
+Bit rate                                 : 3 899 kb/s
+Width                                    : 956 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.189
+Stream size                              : 75.7 MiB (94%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 2 min 42 s
+Bit rate                                 : 259 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 5.03 MiB (6%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
