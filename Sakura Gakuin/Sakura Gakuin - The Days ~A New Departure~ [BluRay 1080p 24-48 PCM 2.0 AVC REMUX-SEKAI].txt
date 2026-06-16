@@ -1,0 +1,67 @@
+General
+Unique ID                   : 198879718828315244073932781829032763846 (0x959ED730666BB70A8C6C740D8B73E1C6)
+Complete name               : Sakura Gakuin - The Days ~A New Departure~ [BluRay 1080p 24-48 PCM 2.0 AVC REMUX-SEKAI].mkv
+Format                      : Matroska
+Format version              : Version 4
+File size                   : 1.60 GiB
+Duration                    : 6 min 58 s
+Overall bit rate mode       : Variable
+Overall bit rate            : 32.9 Mb/s
+Frame rate                  : 23.976 FPS
+Title                       : Sakura Gakuin - The Days ~A New Departure~ [BluRay 1080p 24-48 PCM 2.0 AVC REMUX-SEKAI]
+Encoded date                : 2026-06-16 06:16:35 UTC
+Writing application         : mkvmerge 99.0 ('Buka') 64-bit
+Writing library             : libebml v1.4.5 + libmatroska v1.7.1
+Website                     : https://sekai-archivist.blogspot.com/
+
+Video
+ID                          : 1
+ID in the original source m : 4113 (0x1011)
+Format                      : AVC
+Format/Info                 : Advanced Video Codec
+Format profile              : High@L4.1
+Format settings             : CABAC / 4 Ref Frames
+Format settings, CABAC      : Yes
+Format settings, Reference  : 4 frames
+Format settings, Slice coun : 4 slices per frame
+Codec ID                    : V_MPEG4/ISO/AVC
+Duration                    : 6 min 58 s
+Bit rate mode               : Variable
+Bit rate                    : 30.6 Mb/s
+Maximum bit rate            : 40.0 Mb/s
+Width                       : 1 920 pixels
+Height                      : 1 080 pixels
+Display aspect ratio        : 16:9
+Frame rate mode             : Constant
+Frame rate                  : 23.976 (24000/1001) FPS
+Color space                 : YUV
+Chroma subsampling          : 4:2:0
+Bit depth                   : 8 bits
+Scan type                   : Progressive
+Bits/(Pixel*Frame)          : 0.615
+Time code of first frame    : 00:59:59:00
+Stream size                 : 1.49 GiB (93%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
+Audio
+ID                          : 2
+ID in the original source m : 4352 (0x1100)
+Format                      : PCM
+Format settings             : Little / Signed
+Codec ID                    : A_PCM/INT/LIT
+Duration                    : 6 min 58 s
+Bit rate mode               : Constant
+Bit rate                    : 2 304 kb/s
+Channel(s)                  : 2 channels
+Sampling rate               : 48.0 kHz
+Frame rate                  : 25.000 FPS (1920 SPF)
+Bit depth                   : 24 bits
+Stream size                 : 115 MiB (7%)
+Language                    : Japanese
+Default                     : Yes
+Forced                      : No
+Original source medium      : Blu-ray
+
