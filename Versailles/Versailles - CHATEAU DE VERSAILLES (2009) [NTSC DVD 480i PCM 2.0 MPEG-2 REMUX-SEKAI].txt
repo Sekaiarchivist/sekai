@@ -1,0 +1,117 @@
+﻿General
+Unique ID                                : 88939727950249949132565926719720238887 (0x42E92B24D0AB63B195826B0F4983AF27)
+Complete name                            : Versailles - CHATEAU DE VERSAILLES (2009) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.76 GiB
+Duration                                 : 2 h 19 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 7 995 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Versailles - CHATEAU DE VERSAILLES (2009) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-13 02:45:17 UTC
+Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 19 min
+Bit rate mode                            : Variable
+Bit rate                                 : 6 459 kb/s
+Maximum bit rate                         : 7 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.624
+Time code of first frame                 : 00:00:00;00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 6.27 GiB (81%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 2 h 19 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 24.955 FPS (1923 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 1.49 GiB (19%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+Format                                   : VobSub
+Muxing mode                              : zlib
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : Picture based subtitle format used on DVDs
+Duration                                 : 2 h 2 min
+Bit rate                                 : 331 b/s
+Frame rate                               : 0.020 FPS
+Count of elements                        : 146
+Stream size                              : 297 KiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.066                             : en:
+00:01:32.025                             : en:Prelude (SE)
+00:05:57.623                             : en:OVERTURE
+00:07:05.925                             : en:Aristocrat's Symphony
+00:13:44.390                             : en:Antique in the Future
+00:19:54.693                             : en:Second Fear
+00:23:12.491                             : en:
+00:23:46.158                             : en:zombie
+00:28:07.152                             : en:windress
+00:32:44.896                             : en:SFORZANDO
+00:37:46.797                             : en:PRINCESS
+00:46:22.579                             : en:Silent Knight
+00:52:35.051                             : en:SE -INTRO-
+00:53:44.120                             : en:The Love from a Dead Orchestra
+01:02:45.128                             : en:
+01:04:28.998                             : en:SUZERAIN
+01:08:53.496                             : en:Beast Of Desire
+01:14:13.014                             : en:After Cloudia
+01:19:34.535                             : en:
+01:21:07.428                             : en:Forbidden gate
+01:25:50.177                             : en:History of The Other Side
+01:35:51.878                             : en:PRINCE
+01:42:09.089                             : en:
+01:43:27.133                             : en:Shout & Bites
+01:47:42.388                             : en:The Red Carpet Day
+01:54:38.104                             : en:Sympathia
+02:01:01.620                             : en:
+02:05:10.802                             : en:The Revenant Choir
+02:14:08.673                             : en:Sympathia (SE)
+
+
