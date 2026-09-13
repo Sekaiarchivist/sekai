@@ -1,0 +1,114 @@
+﻿General
+Unique ID                                : 178728248741071106165120145030754222967 (0x8675CF017279184FD7968BAF18564377)
+Complete name                            : Versailles - Chateau de Versailles -JUBILEE- (2011) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 9.75 GiB
+Duration                                 : 2 h 39 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 729 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Versailles - Chateau de Versailles -JUBILEE- (2011) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-13 04:42:03 UTC
+Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 39 min
+Bit rate mode                            : Variable
+Bit rate                                 : 7 191 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.694
+Time code of first frame                 : 01:00:00:00
+Time code source                         : Group of pictures header
+Stream size                              : 8.03 GiB (82%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 2 h 39 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 1.72 GiB (18%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Text
+ID                                       : 3
+ID in the original source medium         : 189 (0xBD)32 (0x20)
+Format                                   : VobSub
+Muxing mode                              : zlib
+Codec ID                                 : S_VOBSUB
+Codec ID/Info                            : Picture based subtitle format used on DVDs
+Duration                                 : 1 h 33 min
+Bit rate                                 : 232 b/s
+Frame rate                               : 0.011 FPS
+Count of elements                        : 62
+Stream size                              : 159 KiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Menu
+00:00:00.000                             : en:Sound in Gate & Prelude
+00:06:30.223                             : en:God Palace -Method of Inheritance-
+00:17:07.626                             : en:Ascendead Master
+00:23:30.942                             : en:Rosen Schwert
+00:28:17.462                             : en:Amorphous
+00:33:51.029                             : en:PRINCESS
+00:43:13.991                             : en:Reminiscence
+00:46:12.336                             : en:Desert Apple
+00:50:44.975                             : en:Catharsis
+00:56:59.048                             : en:Ai to Kanashimi no Nocturne
+01:02:16.466                             : en:Gekkakou
+01:07:36.552                             : en:Aristocrat's Symphony
+01:14:32.634                             : en:Sympathia
+01:25:09.771                             : en:DESTINY -The Lovers-
+01:33:19.093                             : en:Serenade
+01:40:23.884                             : en:The Revenant Choir
+01:52:46.259                             : en:
+01:52:55.101                             : en:Ai to Kanashimi no Nocturne
+01:58:04.910                             : en:Gekkakou
+02:03:01.540                             : en:Amorphous
+02:08:14.186                             : en:Ascendead Master
+02:14:02.367                             : en:Serenade
+02:19:59.891                             : en:God Palace -Method of Inheritance-
+02:30:49.540                             : Latin America Tour (June 2010) with "The Umbrella of Glass"
+02:34:54.551                             : Europe Tour (June 2011) with "Serenade"
+
+
