@@ -1,0 +1,118 @@
+﻿General
+Unique ID                                : 30592659208517980612954577409291999220 (0x1703EE8D61AFED0EC58D00726C0657F4)
+Complete name                            : Versailles - Chateau de Versailles -FINAL- (2013) (Disc 1) [NTSC DVD 480p DD 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.14 GiB
+Duration                                 : 2 h 40 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 389 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Versailles - Chateau de Versailles -FINAL- (2013) (Disc 1) [NTSC DVD 480p DD 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-13 08:40:49 UTC
+Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 40 min
+Bit rate mode                            : Variable
+Bit rate                                 : 6 195 kb/s
+Maximum bit rate                         : 7 700 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.598
+Time code of first frame                 : 00:00:00:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 6.93 GiB (97%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Format settings                          : Dolby Surround
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 40 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 220 MiB (3%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Dolby Surround encoded
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Menu
+00:00:00.000                             : en:Prelude
+00:04:33.273                             : en:Aristocrat's Symphony
+00:11:16.676                             : en:Ascendead Master
+00:17:26.045                             : en:MASQUERADE
+00:24:04.943                             : en:ayakashi
+00:28:50.228                             : en:Rhapsody of the Darkness
+00:34:00.038                             : en:
+00:34:42.580                             : en:Edge of the World
+00:40:10.908                             : en:
+00:40:32.430                             : en:After Cloudia
+00:45:47.244                             : en:Love will be born again
+00:51:47.604                             : en:Holy Grail -amoroso-
+00:56:56.413                             : en:
+00:57:45.962                             : en:DESTINY -The Lovers-
+01:03:40.817                             : en:Judicial Noir
+01:09:11.647                             : en:
+01:12:14.330                             : en:zombie
+01:16:39.595                             : en:
+01:17:37.653                             : en:Brave
+01:22:20.936                             : en:
+01:23:25.000                             : en:Truth
+01:28:24.299                             : en:Created Beauty
+01:38:57.932                             : en:
+01:40:35.029                             : en:ROSE
+01:46:45.399                             : en:The Red Carpet Day
+01:54:28.361                             : en:
+01:56:10.964                             : en:Shout & Bites
+02:00:36.729                             : en:Philia
+02:08:19.692                             : en:
+02:09:39.772                             : en:Sympathia
+02:16:08.660                             : en:
+02:22:08.019                             : en:The Revenant Choir
+02:32:01.612                             : en:
+02:36:24.375                             : en:
+
+
