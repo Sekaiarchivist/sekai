@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 36445874602651487861942996172728748108 (0x1B6B385A17041782FDA8CF8CD4C0C84C)
+Complete name                            : Eve - Sayonara End Roll [1080p WEB-DL AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 273 MiB
+Duration                                 : 3 min 34 s
+Overall bit rate                         : 10.7 Mb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Eve - Sayonara End Roll [1080p WEB-DL AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-09-13 23:05:59 UTC
+Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 min 34 s
+Bit rate                                 : 10.4 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.210
+Stream size                              : 266 MiB (97%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 3 min 34 s
+Bit rate                                 : 265 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 6.89 MiB (3%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
