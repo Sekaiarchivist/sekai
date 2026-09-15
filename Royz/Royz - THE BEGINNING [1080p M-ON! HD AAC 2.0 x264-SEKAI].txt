@@ -7,7 +7,7 @@ File size                                : 328 MiB
 Duration                                 : 3 min 46 s
 Overall bit rate                         : 12.2 Mb/s
 Frame rate                               : 23.976 FPS
-Title                                    : Royz - THE BEGINNING [1080p M-ON! AAC 2.0 x264-SEKAI]
+Title                                    : Royz - THE BEGINNING [1080p M-ON! HD AAC 2.0 x264-SEKAI]
 Encoded date                             : 2026-09-14 12:29:42 UTC
 Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
