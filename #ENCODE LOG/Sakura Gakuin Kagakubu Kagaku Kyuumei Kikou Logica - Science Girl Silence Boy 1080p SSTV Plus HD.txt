@@ -1,0 +1,21 @@
+x264 [info]: frame I:38    Avg QP:13.73  size:132470
+x264 [info]: frame P:1789  Avg QP:18.34  size: 62643
+x264 [info]: frame B:3599  Avg QP:20.14  size: 28622
+x264 [info]: consecutive B-frames:  7.2%  8.7% 24.7% 43.9% 10.9%  3.8%  0.3%  0.3%  0.3%
+x264 [info]: mb I  I16..4: 22.6% 58.1% 19.3%
+x264 [info]: mb P  I16..4:  7.7% 28.9%  5.0%  P16..4: 29.0% 10.2%  5.3%  0.2%  0.1%    skip:13.5%
+x264 [info]: mb B  I16..4:  1.1%  5.0%  1.1%  B16..8: 32.3%  9.1%  2.1%  direct: 7.8%  skip:41.5%  L0:46.7% L1:39.5% BI:13.9%
+x264 [info]: 8x8 transform intra:69.1% inter:68.5%
+x264 [info]: direct mvs  spatial:99.6% temporal:0.4%
+x264 [info]: coded y,uvDC,uvAC intra: 65.0% 72.2% 37.5% inter: 23.6% 26.0% 4.6%
+x264 [info]: i16 v,h,dc,p: 46% 17%  9% 28%
+x264 [info]: i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 22% 12% 17%  6%  8% 10%  7% 10%  9%
+x264 [info]: i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 23% 14%  7%  7% 10% 12%  9% 10%  9%
+x264 [info]: i8c dc,h,v,p: 29% 26% 29% 16%
+x264 [info]: Weighted P-Frames: Y:3.2% UV:2.7%
+x264 [info]: ref P L0: 61.2% 10.8% 18.5%  8.6%  1.0%  0.0%
+x264 [info]: ref B L0: 86.8% 10.7%  2.4%
+x264 [info]: ref B L1: 97.8%  2.2%
+x264 [info]: kb/s:7780.99
+
+encoded 5426 frames, 13.53 fps, 7781.02 kb/s
