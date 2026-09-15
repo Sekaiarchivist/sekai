@@ -7,7 +7,7 @@ File size                                : 185 MiB
 Duration                                 : 4 min 28 s
 Overall bit rate                         : 5 778 kb/s
 Frame rate                               : 23.976 FPS
-Title                                    : Sakura Gakuin - Aogeba Toutoshi ~from Sakura Gakuin 2014~ [1080p M-ON! AAC 2.0 x264-SEKAI]
+Title                                    : Sakura Gakuin - Aogeba Toutoshi ~from Sakura Gakuin 2014~ [1080p M-ON! HD AAC 2.0 x264-SEKAI]
 Encoded date                             : 2026-09-14 08:07:02 UTC
 Writing application                      : mkvmerge 101.0 ('Time To Turn') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
