@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 152194529157018089716490770878944597006 (0x727F99A0A5D9DAA890E217F80CE9540E)
+Complete name                            : Versailles - The Revenant Choir (CHATEAU DE VERSAILLES -Holy Grail- Live at Shibuya Koukaidou, 2012.2.12) [1080p WEB-DL AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 718 MiB
+Duration                                 : 9 min 59 s
+Overall bit rate                         : 10.1 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Versailles - The Revenant Choir (CHATEAU DE VERSAILLES -Holy Grail- Live at Shibuya Koukaidou, 2012.2.12) [1080p WEB-DL AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-09-16 00:23:24 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 9 min 59 s
+Bit rate                                 : 9 769 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.157
+Stream size                              : 698 MiB (97%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 9 min 59 s
+Bit rate                                 : 288 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 20.4 MiB (3%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
