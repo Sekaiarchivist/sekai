@@ -10,7 +10,7 @@ Duration                                 : 42 min 25 s
 Overall bit rate mode                    : Constant
 Overall bit rate                         : 9 728 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Versailles - World Tour 2010 ΓÇ£Method of InheritanceΓÇ¥ -GRAND FINAL- (CHATEAU DE VERSAILLES at SHIBUYA C.C. Lemon Hall, 2010.9.4) (2011) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Title                                    : Versailles - World Tour 2010 “Method of Inheritance” -GRAND FINAL- (CHATEAU DE VERSAILLES at SHIBUYA C.C. Lemon Hall, 2010.9.4) (2011) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2026-09-16 02:32:20 UTC
 Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
