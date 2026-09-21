@@ -7,7 +7,7 @@ File size                                : 447 MiB
 Duration                                 : 5 min 50 s
 Overall bit rate                         : 10.7 Mb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Versailles - Ascendead Master (Versailles World Tour 2010 ΓÇ£Method of InheritanceΓÇ¥ Live at JCB Hall, 2010.4.30) [1080p WEB-DL AAC 2.0 x264-SEKAI]
+Title                                    : Versailles - Ascendead Master (Versailles World Tour 2010 “Method of Inheritance” Live at JCB Hall, 2010.4.30) [1080p WEB-DL AAC 2.0 x264-SEKAI]
 Encoded date                             : 2026-09-16 00:50:55 UTC
 Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
