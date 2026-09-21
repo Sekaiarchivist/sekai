@@ -1,4 +1,6 @@
-﻿General
+This Live Clip was remuxed by SEKAI from Destiny -The Lovers- (Limited Edition A) DVD ISO.
+
+General
 Unique ID                                : 52991946447004124321878757876516916034 (0x27DDE0AD7F6A1C2C78E54164D7420B42)
 Complete name                            : Versailles - “Method of Inheritance” -JUBILEE- Live at Tokyo JCB Hall, 2010.4.30) (2010) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
 Format                                   : Matroska
