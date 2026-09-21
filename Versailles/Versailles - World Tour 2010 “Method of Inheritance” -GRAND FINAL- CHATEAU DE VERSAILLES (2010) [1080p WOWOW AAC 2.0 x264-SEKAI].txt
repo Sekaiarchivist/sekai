@@ -7,7 +7,7 @@ File size                                : 6.26 GiB
 Duration                                 : 54 min 38 s
 Overall bit rate                         : 16.4 Mb/s
 Frame rate                               : 23.976 FPS
-Title                                    : Versailles - World Tour 2010 ΓÇ£Method of InheritanceΓÇ¥ -GRAND FINAL- CHATEAU DE VERSAILLES (2010) [1080p WOWOW AAC 2.0 x264-SEKAI]
+Title                                    : Versailles - World Tour 2010 “Method of Inheritance” -GRAND FINAL- CHATEAU DE VERSAILLES (2010) [1080p WOWOW AAC 2.0 x264-SEKAI]
 Encoded date                             : 2026-09-16 16:31:24 UTC
 Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
