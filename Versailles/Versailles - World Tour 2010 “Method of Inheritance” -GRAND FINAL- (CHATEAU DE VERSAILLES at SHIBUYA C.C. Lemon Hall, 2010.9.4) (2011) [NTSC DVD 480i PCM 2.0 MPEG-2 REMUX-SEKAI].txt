@@ -1,4 +1,6 @@
-﻿General
+This Live Clip was remuxed by SEKAI from Philia (Limited Edition B) DVD ISO.
+
+General
 Unique ID                                : 116610531832912680443735532327177736263 (0x57BA5F1B33430B4603AA33B17D4AD047)
 Complete name                            : Versailles - World Tour 2010 “Method of Inheritance” -GRAND FINAL- (CHATEAU DE VERSAILLES at SHIBUYA C.C. Lemon Hall, 2010.9.4) (2011) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
 Format                                   : Matroska
