@@ -78,8 +78,8 @@ Menu
 00:04:59.866                             : en:Planet Episode 008
 00:10:22.755                             : en:Verishuvi
 00:17:09.228                             : en:Suimin Fusoku
-00:21:25.450                             : en:MiracleΓÖ¬PattyfulΓÖ¬Hamburguer
-00:26:19.477                             : en:Science GirlΓû╜Silence Boy
+00:21:25.450                             : en:Miracle♪Pattyful♪Hamburguer
+00:26:19.477                             : en:Science Girl▽Silence Boy
 00:31:08.266                             : en:Delta
 00:35:03.468                             : en:Headbanger!!
 00:40:46.243                             : en:Scoreboard ni Love ga Aru
