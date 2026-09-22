@@ -122,7 +122,7 @@ Menu
 01:43:47.264                             : en:
 01:43:55.605                             : en:Medaka no Kyoudai
 01:46:10.640                             : en:Brand New Day
-01:48:37.487                             : en:Doki DokiΓÿåMorning
-01:51:39.936                             : en:PrincessΓÿåa la mode
+01:48:37.487                             : en:Doki Doki☆Morning
+01:51:39.936                             : en:Princess☆a la mode
 
 
