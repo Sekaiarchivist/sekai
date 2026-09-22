@@ -10,7 +10,7 @@ Duration                                 : 39 min 1 s
 Overall bit rate mode                    : Constant
 Overall bit rate                         : 9 734 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Versailles - ΓÇ£Method of InheritanceΓÇ¥ -JUBILEE- Live at Tokyo JCB Hall, 2010.4.30) (2010) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Title                                    : Versailles - “Method of Inheritance” -JUBILEE- Live at Tokyo JCB Hall, 2010.4.30) (2010) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2026-09-16 04:29:46 UTC
 Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
