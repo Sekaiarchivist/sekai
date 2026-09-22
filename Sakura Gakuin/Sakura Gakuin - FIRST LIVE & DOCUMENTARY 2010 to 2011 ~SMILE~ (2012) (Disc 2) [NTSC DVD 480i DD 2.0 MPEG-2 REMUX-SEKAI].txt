@@ -1,0 +1,128 @@
+﻿General
+Unique ID                                : 114528137487055062192820807300647404487 (0x56295123618B93F814E31B94C4E2C3C7)
+Complete name                            : Sakura Gakuin - FIRST LIVE & DOCUMENTARY 2010 to 2011 ~SMILE~ (2012) (Disc 2) [NTSC DVD 480i DD 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.42 GiB
+Duration                                 : 1 h 54 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 9 301 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Sakura Gakuin - FIRST LIVE & DOCUMENTARY 2010 to 2011 ~SMILE~ (2012) (Disc 2) [NTSC DVD 480i DD 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-20 07:22:04 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 1 h 54 min
+Bit rate mode                            : Variable
+Bit rate                                 : 9 106 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : Component
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.879
+Time code of first frame                 : 01:00:00:00
+Time code source                         : Group of pictures header
+Stream size                              : 7.26 GiB (98%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+
+Audio
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 1 h 54 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 157 MiB (2%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:13:17.196                             : en:Chapter 02
+00:21:39.398                             : en:Chapter 03
+00:23:17.662                             : en:Chapter 04
+00:25:01.366                             : en:Chapter 05
+00:27:02.787                             : en:Chapter 06
+00:27:44.663                             : en:Chapter 07
+00:29:06.444                             : en:Chapter 08
+00:30:04.969                             : en:Chapter 09
+00:31:37.896                             : en:Chapter 10
+00:32:52.303                             : en:Chapter 11
+00:37:02.887                             : en:Chapter 12
+00:38:47.992                             : en:Chapter 13
+00:41:18.676                             : en:Chapter 14
+00:41:36.827                             : en:Chapter 15
+00:42:19.537                             : en:Chapter 16
+00:43:31.942                             : en:Chapter 17
+00:48:27.170                             : en:Chapter 18
+00:49:45.248                             : en:Chapter 19
+00:50:31.361                             : en:Chapter 20
+00:52:12.129                             : en:Chapter 21
+00:53:20.363                             : en:Chapter 22
+00:54:34.738                             : en:Chapter 23
+00:56:03.026                             : en:Chapter 24
+00:57:28.645                             : en:Chapter 25
+01:02:24.540                             : en:Chapter 26
+01:03:51.227                             : en:Chapter 27
+01:08:34.777                             : en:Chapter 28
+01:10:39.301                             : en:Chapter 29
+01:14:21.723                             : en:Chapter 30
+01:17:52.534                             : en:Chapter 31
+01:24:45.914                             : en:Chapter 32
+01:26:27.982                             : en:Chapter 33
+01:27:08.356                             : en:Chapter 34
+01:28:55.897                             : en:Chapter 35
+01:30:26.187                             : en:Chapter 36
+01:31:29.717                             : en:Chapter 37
+01:32:14.529                             : en:Chapter 38
+01:33:07.415                             : en:Chapter 39
+01:43:47.264                             : en:
+01:43:55.605                             : en:Medaka no Kyoudai
+01:46:10.640                             : en:Brand New Day
+01:48:37.487                             : en:Doki DokiΓÿåMorning
+01:51:39.936                             : en:PrincessΓÿåa la mode
+
+
