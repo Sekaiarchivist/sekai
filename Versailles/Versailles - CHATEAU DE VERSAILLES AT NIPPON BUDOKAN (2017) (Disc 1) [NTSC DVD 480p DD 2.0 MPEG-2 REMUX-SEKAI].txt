@@ -1,4 +1,6 @@
-﻿General
+2017.2.14 Nippon Budokan
+
+General
 Unique ID                                : 32989948554816191189535898702215623332 (0x18D1A20AE1E1BA2479A3C6A1B35BB2A4)
 Complete name                            : Versailles - CHATEAU DE VERSAILLES AT NIPPON BUDOKAN (2017) (Disc 1) [NTSC DVD 480p DD 2.0 MPEG-2 REMUX-SEKAI].mkv
 Format                                   : Matroska
