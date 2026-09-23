@@ -1,4 +1,6 @@
-﻿General
+2016.8.7 Maihama AMPITHEATER
+
+General
 Unique ID                                : 71539754290410853083370643642508087429 (0x35D20E3542DB23A00EDE0BFD147F9085)
 Complete name                            : Versailles - CHATEAU DE VERSAILLES AT NIPPON BUDOKAN (2017) (Disc 2) [NTSC DVD 480p DD 2.0 MPEG-2 REMUX-SEKAI].mkv
 Format                                   : Matroska
