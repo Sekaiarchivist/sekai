@@ -1,0 +1,121 @@
+﻿General
+Unique ID                                : 71539754290410853083370643642508087429 (0x35D20E3542DB23A00EDE0BFD147F9085)
+Complete name                            : Versailles - CHATEAU DE VERSAILLES AT NIPPON BUDOKAN (2017) (Disc 2) [NTSC DVD 480p DD 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 6.46 GiB
+Duration                                 : 2 h 24 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 6 389 kb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Versailles - CHATEAU DE VERSAILLES AT NIPPON BUDOKAN (2017) (Disc 2) [NTSC DVD 480p DD 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-23 15:44:14 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=12
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 24 min
+Bit rate mode                            : Variable
+Bit rate                                 : 6 194 kb/s
+Maximum bit rate                         : 7 700 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 23.976 (24000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Scan order                               : 2:3 Pulldown
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.747
+Time code of first frame                 : 00:59:59:23
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 6.26 GiB (97%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color primaries                          : BT.601 NTSC
+Transfer characteristics                 : BT.601
+Matrix coefficients                      : BT.601
+Original source medium                   : DVD-Video
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 189 (0xBD)128 (0x80)
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 24 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 199 MiB (3%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+Dialog Normalization                     : -27 dB
+compr                                    : -0.28 dB
+dialnorm_Average                         : -27 dB
+dialnorm_Minimum                         : -27 dB
+dialnorm_Maximum                         : -27 dB
+
+Menu
+00:00:00.000                             : en:
+00:00:01.668                             : en:Prelude
+00:05:40.423                             : en:MASQUERADE
+00:11:59.051                             : en:Ascendead Master
+00:18:26.105                             : en:Shout & Bites
+00:22:35.437                             : en:Gekkakou
+00:27:36.738                             : en:
+00:27:59.594                             : en:Forbidden gate
+00:32:39.207                             : en:
+00:33:25.670                             : en:DESCENDANT OF THE ROSE
+00:35:14.362                             : en:
+00:36:04.495                             : en:DESTINY -The Lovers-
+00:42:06.524                             : en:
+00:42:57.992                             : en:Ai to Kanashimi no Nocturne
+00:48:20.180                             : en:Beast of Desire
+00:53:07.267                             : en:zombie
+00:57:49.632                             : en:
+01:00:12.225                             : en:Judicial Noir
+01:04:42.295                             : en:After Cloudia
+01:10:09.455                             : en:
+01:10:32.595                             : en:Serenade
+01:16:37.175                             : en:
+01:17:30.979                             : en:Melodic Thorn ~Bi no Bouryoku~
+01:22:59.924                             : en:Philia
+01:29:04.205                             : en:OVERTURE
+01:30:26.788                             : en:Aristocrat's Symphony
+01:38:42.416                             : en:
+01:41:49.052                             : en:Chandelier
+01:47:53.967                             : en:The Red Carpet Day
+01:55:04.564                             : en:
+01:55:56.566                             : en:
+01:57:32.378                             : en:Sympathia
+02:07:52.698                             : en:The Revenant Choir
+02:18:01.439                             : en:
+
+
