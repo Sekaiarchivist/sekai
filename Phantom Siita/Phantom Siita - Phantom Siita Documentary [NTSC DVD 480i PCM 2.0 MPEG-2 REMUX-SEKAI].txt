@@ -1,4 +1,6 @@
-﻿General
+This documentary was extracted and remuxed by SEKAI from Phantaom Siita - Shoujo no Hi no Omoide DVD ISO.
+
+General
 Unique ID                                : 157933958106027002727444077395815504212 (0x76D0F95281ABA06B6DAC42EB8B991954)
 Complete name                            : Phantom Siita - Phantom Siita Documentary [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
 Format                                   : Matroska
