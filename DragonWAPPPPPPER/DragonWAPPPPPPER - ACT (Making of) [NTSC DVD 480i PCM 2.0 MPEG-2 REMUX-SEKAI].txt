@@ -1,0 +1,86 @@
+﻿General
+Unique ID                                : 120767942166073465588189664814756559274 (0x5ADB0F42DC6544E77E4B79E1994479AA)
+Complete name                            : DragonWAPPPPPPER - ACT (Making of) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.41 GiB
+Duration                                 : 25 min 10 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 042 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : DragonWAPPPPPPER - ACT (Making of) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-23 08:53:31 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Default
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 25 min 10 s
+Bit rate mode                            : Variable
+Bit rate                                 : 6 503 kb/s
+Maximum bit rate                         : 8 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Variable
+Frame rate                               : 29.970 (29970/1000) FPS
+Original frame rate                      : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Bottom Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.628
+Time code of first frame                 : 00:04:20:26
+Time code source                         : Group of pictures header
+Stream size                              : 1.14 GiB (81%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 189 (0xBD)160 (0xA0)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 25 min 10 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Delay relative to video                  : 72 ms
+Stream size                              : 277 MiB (19%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Menu
+00:00:00.000                             : en:Chapter 01
+00:03:55.835                             : en:Chapter 02
+00:05:59.459                             : en:Chapter 03
+00:07:01.521                             : en:Chapter 04
+00:08:16.596                             : en:Chapter 05
+00:19:11.250                             : en:Chapter 06
+00:20:30.829                             : en:Chapter 07
+00:24:36.575                             : en:Chapter 08
+
+
