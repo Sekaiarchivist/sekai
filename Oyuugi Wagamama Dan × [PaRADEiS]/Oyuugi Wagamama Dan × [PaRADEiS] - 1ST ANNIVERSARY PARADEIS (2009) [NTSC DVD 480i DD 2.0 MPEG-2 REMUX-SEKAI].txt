@@ -8,7 +8,7 @@ Duration                                 : 1 h 6 min
 Overall bit rate mode                    : Constant
 Overall bit rate                         : 8 195 kb/s
 Frame rate                               : 29.970 FPS
-Title                                    : Oyuugi Wagamama Dan ├ù [PaRADEiS] - 1ST ANNIVERSARY PARADEIS (2009) [NTSC DVD 480i DD 2.0 MPEG-2 REMUX-SEKAI]
+Title                                    : Oyuugi Wagamama Dan × [PaRADEiS] - 1ST ANNIVERSARY PARADEIS (2009) [NTSC DVD 480i DD 2.0 MPEG-2 REMUX-SEKAI]
 Encoded date                             : 2026-09-23 22:26:29 UTC
 Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
 Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
