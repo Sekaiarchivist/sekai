@@ -1,0 +1,77 @@
+﻿General
+Unique ID                                : 110340197307315520270915460156707485927 (0x5302BFBEE1BF2FD87324526ADA0AB8E7)
+Complete name                            : Bergerac - dress [NTSC DVD 480i MP2 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 216 MiB
+Duration                                 : 4 min 6 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 7 343 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Bergerac - dress [NTSC DVD 480i MP2 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-23 06:53:40 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 4 min 6 s
+Bit rate mode                            : Variable
+Bit rate                                 : 7 148 kb/s
+Maximum bit rate                         : 9 000 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.690
+Time code of first frame                 : 01:00:00:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Closed
+Stream size                              : 210 MiB (97%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 192 (0xC0)
+Format                                   : MPEG Audio
+Format version                           : Version 1
+Format profile                           : Layer 2
+Codec ID                                 : A_MPEG/L2
+Codec ID/Hint                            : MP2
+Duration                                 : 4 min 6 s
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 41.667 FPS (1152 SPF)
+Compression mode                         : Lossy
+Stream size                              : 5.65 MiB (3%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+
