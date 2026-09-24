@@ -1,0 +1,88 @@
+﻿General
+Unique ID                                : 296652721989352119909348278159609570418 (0xDF2D3C6CE0734F223C8CE2C7D5022472)
+Complete name                            : Phantom Siita - 1ST WORLD TOUR “Moth to a flame” (2026) [1080p BluRay PCM 24-48 2.0 AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 21.0 GiB
+Duration                                 : 1 h 25 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 35.2 Mb/s
+Frame rate                               : 23.976 FPS
+Title                                    : Phantom Siita - 1ST WORLD TOUR ΓÇ£Moth to a flameΓÇ¥ (2026) [1080p BluRay PCM 24-48 2.0 AVC REMUX-SEKAI]
+Encoded date                             : 2026-09-23 05:38:02 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 25 min
+Bit rate mode                            : Variable
+Bit rate                                 : 32.9 Mb/s
+Maximum bit rate                         : 40.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.662
+Time code of first frame                 : 00:59:59:00
+Stream size                              : 19.6 GiB (93%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 1 h 25 min
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 24 bits
+Stream size                              : 1.37 GiB (7%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:
+00:01:53.697                             : en:Kimi to XXXX Shitai dake
+00:05:39.339                             : en:Mashou Shoujo
+00:09:18.558                             : en:Hanabami
+00:12:18.738                             : en:Otome Shinjuu
+00:15:38.563                             : en:
+00:18:16.095                             : en:Suki Suki Daisuki
+00:22:07.326                             : en:Aoi Sangoshou
+00:26:07.566                             : en:FANTASY
+00:30:55.854                             : en:KICK BACK
+00:34:24.062                             : en:One Last Kiss
+00:38:57.335                             : en:Flyday Chinatown
+00:42:37.555                             : en:4:00 A.M.
+00:48:30.908                             : en:HANAGATAMI
+00:53:36.713                             : en:Mayonaka no Door / Stay With Me
+00:59:28.565                             : en:
+01:00:48.645                             : en:Otomodachi
+01:04:29.866                             : en:
+01:06:33.489                             : en:Tot Musica
+01:10:18.214                             : en:Moonlight Densetsu
+01:13:31.449                             : en:
+01:19:30.766                             : en:Zoku Zoku
+
+
