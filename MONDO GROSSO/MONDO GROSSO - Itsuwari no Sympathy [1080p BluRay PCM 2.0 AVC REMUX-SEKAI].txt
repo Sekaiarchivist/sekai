@@ -1,0 +1,63 @@
+﻿General
+Unique ID                                : 275472743358402079613300685030642384418 (0xCF3E1EDB07E204AFBCE9B983C08B7E22)
+Complete name                            : MONDO GROSSO - Itsuwari no Sympathy [1080p BluRay PCM 2.0 AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 1.26 GiB
+Duration                                 : 5 min 13 s
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 34.5 Mb/s
+Frame rate                               : 23.976 FPS
+Title                                    : MONDO GROSSO - Itsuwari no Sympathy [1080p BluRay PCM 2.0 AVC REMUX-SEKAI]
+Encoded date                             : 2026-09-27 10:01:39 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 5 min 12 s
+Bit rate mode                            : Variable
+Bit rate                                 : 33.0 Mb/s
+Maximum bit rate                         : 35.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.663
+Stream size                              : 1.20 GiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 5 min 13 s
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 57.3 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
