@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 271514165276911050007448126521310050444 (0xCC43B9E335F34782551A078AC319F88C)
+Complete name                            : Tatsuya Kitani - Watashi ga Ashita Shinu Nara [1080p WEB-DL AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 207 MiB
+Duration                                 : 4 min 13 s
+Overall bit rate                         : 6 842 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Tatsuya Kitani - Watashi ga Ashita Shinu Nara [1080p WEB-DL AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-09-30 10:36:08 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 13 s
+Bit rate                                 : 6 589 kb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.106
+Stream size                              : 199 MiB (96%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 13 s
+Bit rate                                 : 252 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 7.60 MiB (4%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
