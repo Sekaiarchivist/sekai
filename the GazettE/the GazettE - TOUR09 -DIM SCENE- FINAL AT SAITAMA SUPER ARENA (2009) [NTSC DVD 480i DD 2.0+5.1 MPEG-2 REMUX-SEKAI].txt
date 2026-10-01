@@ -1,0 +1,143 @@
+﻿General
+Unique ID                                : 87606707388610181411654216722813974751 (0x41E87027E7786CE5B08DB68CD01E78DF)
+Complete name                            : the GazettE - TOUR09 -DIM SCENE- FINAL AT SAITAMA SUPER ARENA (2009) [NTSC DVD 480i DD 2.0+5.1 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 8.77 GiB
+Duration                                 : 2 h 20 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 8 912 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : the GazettE - TOUR09 -DIM SCENE- FINAL AT SAITAMA SUPER ARENA (2009) [NTSC DVD 480i DD 2.0+5.1 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-26 19:02:32 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 20 min
+Bit rate mode                            : Variable
+Bit rate                                 : 8 013 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.774
+Time code of first frame                 : 00:59:59:00
+Time code source                         : Group of pictures header
+Stream size                              : 7.89 GiB (90%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 20 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 452 MiB (5%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+dsurmod                                  : Not Dolby Surround encoded
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 2 h 20 min
+Bit rate mode                            : Constant
+Bit rate                                 : 448 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 452 MiB (5%)
+Language                                 : Japanese
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+Dialog Normalization                     : -31 dB
+compr                                    : -0.28 dB
+cmixlev                                  : -3.0 dB
+surmixlev                                : -3 dB
+dmixmod                                  : Lt/Rt
+ltrtcmixlev                              : -3.0 dB
+ltrtsurmixlev                            : -3.0 dB
+lorocmixlev                              : -3.0 dB
+lorosurmixlev                            : -3.0 dB
+dialnorm_Average                         : -31 dB
+dialnorm_Minimum                         : -31 dB
+dialnorm_Maximum                         : -31 dB
+
+Menu
+00:00:00.000                             : en:"Hakuri"
+00:01:50.510                             : en:THE INVISIBLE WALL
+00:06:23.015                             : en:LEECH
+00:10:33.299                             : en:Hyena
+00:15:32.731                             : en:DISTRESS AND COMA
+00:21:00.259                             : en:Shiroki Yuuutsu
+00:25:33.031                             : en:"Erika"
+00:26:44.603                             : en:13STAIRS[-]1
+00:32:02.921                             : en:HEADACHE MAN
+00:36:24.582                             : en:WITHOUT A TRACE
+00:40:52.550                             : en:"Kanshoku"
+00:41:44.001                             : en:Nakigahara
+00:49:43.981                             : en:"Shikyuu"
+00:50:28.025                             : en:Guren
+00:56:41.698                             : en:A MOTH UNDER THE SKIN
+00:59:40.944                             : en:COCKROACH
+01:03:51.894                             : en:IN THE MIDDLE OF CHAOS
+01:08:06.082                             : en:Filth in the beauty
+01:12:32.481                             : en:OGRE
+01:16:37.192                             : en:DISCHARGE
+01:21:26.147                             : en:DIM SCENE
+01:28:08.216                             : en:"Mourou"
+01:30:36.431                             : en:
+01:32:16.464                             : en:Ride with the ROCKERS
+01:42:17.097                             : en:Ruder
+01:45:43.437                             : en:THE $OCIAL RIOT MACHINE$
+01:49:32.566                             : en:Anata no Tame ni Kono Inochi.
+01:56:40.727                             : en:Kantou Dougeza Kumiai
+02:04:54.954                             : en:LINDA~candydive pinky heaven~
+02:12:33.312                             : en:Miseinen
+
+
