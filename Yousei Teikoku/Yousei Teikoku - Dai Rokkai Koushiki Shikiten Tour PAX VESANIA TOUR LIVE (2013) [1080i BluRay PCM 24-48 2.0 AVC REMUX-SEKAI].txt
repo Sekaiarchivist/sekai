@@ -1,0 +1,107 @@
+﻿General
+Unique ID                                : 41235488148733506374508618102169625463 (0x1F05AA8821C07EB5C126D6ECCB7F6377)
+Complete name                            : Yousei Teikoku - Dai Rokkai Koushiki Shikiten Tour PAX VESANIA TOUR LIVE (2013) [1080i BluRay PCM 24-48 2.0 AVC REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 35.6 GiB
+Duration                                 : 2 h 24 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 35.3 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Yousei Teikoku - Dai Rokkai Koushiki Shikiten Tour PAX VESANIA TOUR LIVE (2013) [1080i BluRay PCM 24-48 2.0 AVC REMUX-SEKAI]
+Encoded date                             : 2026-09-27 13:03:50 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 4 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 24 min
+Bit rate mode                            : Variable
+Bit rate                                 : 33.0 Mb/s
+Maximum bit rate                         : 39.0 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : MBAFF
+Scan type, store method                  : Interleaved fields
+Scan order                               : Top Field First
+Bits/(Pixel*Frame)                       : 0.530
+Time code of first frame                 : 01:00:00:00
+Stream size                              : 33.2 GiB (93%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 2 h 24 min
+Bit rate mode                            : Constant
+Bit rate                                 : 2 304 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 24 bits
+Stream size                              : 2.32 GiB (7%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Jo
+00:04:58.932                             : en:
+00:05:28.295                             : en:Kyouki Chinden
+00:09:34.407                             : en:Alte Burg
+00:14:54.761                             : en:
+00:15:30.930                             : en:Solitude
+00:19:41.113                             : en:missing
+00:25:03.102                             : en:
+00:25:43.075                             : en:Kokoro Sanctuary
+00:30:06.905                             : en:EGOIST
+00:35:06.104                             : en:
+00:35:30.128                             : en:Herrscher
+00:40:41.272                             : en:Gekkyou Hangon Cinerarium
+00:44:39.844                             : en:Gisou Sekai Agartha
+00:48:44.588                             : en:
+00:49:11.882                             : en:Kami, Nozomu Sekai to Hakoniwa Gensou
+00:53:05.883                             : en:Shito Raisan
+00:57:20.771                             : en:Solo
+01:15:35.164                             : en:Mischievous of Alice
+01:20:00.796                             : en:
+01:20:01.797                             : en:
+01:20:29.692                             : en:Siege oder sterben
+01:25:46.708                             : en:Baptize
+01:29:27.362                             : en:The Creator
+01:33:39.113                             : en:Patriot Anthem
+01:43:14.188                             : en:Astral Dogma
+01:49:34.568                             : en:
+01:50:18.545                             : en:
+01:50:39.633                             : en:Kikai
+01:54:43.877                             : en:
+01:54:57.891                             : en:Hafuriuta
+01:59:37.170                             : en:filament
+02:03:59.565                             : en:
+02:04:39.439                             : en:Kuusou Mythology
+02:09:18.751                             : en:
+02:11:29.682                             : en:
+02:12:23.936                             : en:
+02:12:24.937                             : en:Seishoujo Ryouiki (with Takarano Arika from ALI PROJECT)
+02:19:55.909                             : en:last moment (with Takarano Arika from ALI PROJECT)
+
+

@@ -1,0 +1,106 @@
+﻿General
+Unique ID                                : 313826100320798047645961669989720035608 (0xEC18B5594BF5A4DA34D104EE2CBE9118)
+Complete name                            : Yousei Teikoku - Tokusai Koshiki Shikiten “920Putsch” (2010) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 8.33 GiB
+Duration                                 : 2 h 37 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 7 564 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : Yousei Teikoku - Tokusai Koshiki Shikiten ΓÇ£920PutschΓÇ¥ (2010) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-26 17:43:31 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : Variable
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 37 min
+Bit rate mode                            : Variable
+Bit rate                                 : 6 026 kb/s
+Maximum bit rate                         : 9 800 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.582
+Time code of first frame                 : 01:00:17:01
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+GOP, Open/Closed of first frame          : Closed
+Stream size                              : 6.63 GiB (80%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 2 h 37 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 1.69 GiB (20%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Fairy Empire Propaganda Ministry Emergency Special Broadcast "920Putsch" I
+00:04:18.358                             : en:Opening
+00:08:11.190                             : en:last moment
+00:12:22.174                             : en:Ira
+00:18:25.571                             : en:Kokou no Sousei
+00:23:33.812                             : en:Baptize
+00:27:38.323                             : en:Alte Burg
+00:33:23.901                             : en:Akai Tobira
+00:37:02.954                             : en:Garden
+00:41:03.794                             : en:Chinmoku no Mayu
+00:46:30.220                             : en:Fairy Empire Propaganda Ministry Emergency Special Broadcast "920Putsch" II
+00:49:09.746                             : en:Kikai Shoujo Gensou
+00:52:27.177                             : en:Hades:The rise
+00:57:18.935                             : en:Wahrheit
+01:01:23.079                             : en:Sacrifice
+01:04:48.951                             : en:Schwarzer Sarg
+01:11:23.245                             : en:Fairy Empire Propaganda Ministry Emergency Special Broadcast "920Putsch" III
+01:13:37.946                             : en:call my name
+01:18:40.982                             : en:Fortuna
+01:24:08.242                             : en:Simulacra
+01:27:55.636                             : en:SOLO
+01:39:32.966                             : en:Tamakui
+01:44:12.011                             : en:Valkyrja
+01:51:09.528                             : en:Fairy Empire Propaganda Ministry Emergency Special Broadcast "920Putsch" IV
+01:53:13.252                             : en:rebellion anthem
+02:02:21.800                             : en:Patriot Anthem
+02:13:20.124                             : en:Fairy Empire Propaganda Ministry Emergency Special Broadcast "920Putsch" V
+02:14:39.537                             : en:Asgard
+02:19:23.821                             : en:Senketsu no Chikai
+02:25:36.593                             : en:Ending
+02:29:54.451                             : en:Secret Material taken by the Fairy Empire Intelligence Department "#DFRAb023058S"
+02:32:02.579                             : Vampire (Denkare cover)
+
+
