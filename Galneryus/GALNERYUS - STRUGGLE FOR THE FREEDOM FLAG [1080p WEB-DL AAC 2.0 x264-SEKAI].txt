@@ -1,0 +1,64 @@
+﻿General
+Unique ID                                : 232120570259155720743647542008861962150 (0xAEA0CBB2CD0686E61513E8355F982FA6)
+Complete name                            : GALNERYUS - STRUGGLE FOR THE FREEDOM FLAG [1080p WEB-DL AAC 2.0 x264-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 313 MiB
+Duration                                 : 4 min 21 s
+Overall bit rate                         : 10.0 Mb/s
+Frame rate                               : 29.970 FPS
+Title                                    : GALNERYUS - STRUGGLE FOR THE FREEDOM FLAG [1080p WEB-DL AAC 2.0 x264-SEKAI]
+Encoded date                             : 2026-09-30 10:16:12 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Format settings, Slice count             : 8 slices per frame
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 4 min 21 s
+Bit rate                                 : 9 801 kb/s
+Width                                    : 1 874 pixels
+Height                                   : 1 054 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0 (Type 2)
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.166
+Stream size                              : 305 MiB (97%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.709
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+
+Audio
+ID                                       : 2
+Format                                   : AAC LC
+Format/Info                              : Advanced Audio Codec Low Complexity
+Codec ID                                 : A_AAC-2
+Duration                                 : 4 min 21 s
+Bit rate                                 : 249 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 46.875 FPS (1024 SPF)
+Compression mode                         : Lossy
+Stream size                              : 7.76 MiB (2%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+
