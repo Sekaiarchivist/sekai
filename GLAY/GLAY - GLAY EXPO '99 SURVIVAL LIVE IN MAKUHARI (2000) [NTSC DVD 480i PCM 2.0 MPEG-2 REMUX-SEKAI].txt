@@ -95,7 +95,7 @@ Menu
 01:38:37.311                             : en:COME ON!!
 01:41:54.942                             : en:ACID HEAD
 01:50:13.039                             : en:I'm in Love
-01:59:01.200                             : en:Kanojo no "ModernΓÇª"
+01:59:01.200                             : en:Kanojo no "Modern…"
 02:03:44.116                             : en:Biribiri Crashmen
 02:08:37.776                             : en:BURST
 02:24:29.227                             : en:ENDING
