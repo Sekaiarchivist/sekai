@@ -83,18 +83,18 @@ dialnorm_Maximum                         : -31 dB
 
 Menu
 00:00:00.000                             : en:
-00:01:30.490                             : en:╨»hytHmic TelepAthy8
+00:01:30.490                             : en:ЯhytHmic TelepAthy8
 00:04:49.656                             : en:Naichau Kurai
 00:08:53.199                             : en:Member Call
 00:13:35.447                             : en:Ohimesama no Akai Bara
 00:19:27.533                             : en:the other side of paradeis
 00:27:04.990                             : en:Osanaki Futago no Himitsu
 00:32:55.773                             : en:verminous
-00:38:58.703                             : en:Deai wa(πâ╗ΓêÇπâ╗)Noshikara (πâ╗ΓêÇπâ╗)
-00:44:57.995                             : en:LoLliΓÿàLOLLIPOP
+00:38:58.703                             : en:Deai wa(・∀・)Noshikara (・∀・)
+00:44:57.995                             : en:LoLli★LOLLIPOP
 00:49:29.766                             : en:I'm Proud
 00:54:19.055                             : en:Soredemo
-00:58:34.544                             : en:KoisuruΓÿàminette
+00:58:34.544                             : en:Koisuru★minette
 01:04:52.788                             : en:Toki no Sumika
 
 
