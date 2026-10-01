@@ -1,4 +1,6 @@
-﻿General
+This video is remuxed by SEKAI from love [CLIP] per IV DVD ISO.
+
+General
 Unique ID                                : 198272470131449359810218309673390329193 (0x9529E3844AF62A403BDDF56C333E4D69)
 Complete name                            : NIGHTMARE - love[CLIP]per IV (Bonus Movie) (2009) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
 Format                                   : Matroska
