@@ -1,0 +1,107 @@
+﻿General
+Unique ID                                : 221026095957702625782151887445126565620 (0xA64813E22790BB6718C026C1FAB44EF4)
+Complete name                            : GLAY - GLAY EXPO '99 SURVIVAL LIVE IN MAKUHARI (2000) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI].mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 7.39 GiB
+Duration                                 : 2 h 30 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 7 011 kb/s
+Frame rate                               : 29.970 FPS
+Title                                    : GLAY - GLAY EXPO '99 SURVIVAL LIVE IN MAKUHARI (2000) [NTSC DVD 480i PCM 2.0 MPEG-2 REMUX-SEKAI]
+Encoded date                             : 2026-09-28 10:06:38 UTC
+Writing application                      : mkvmerge 102.0 ('Little Houses') 64-bit
+Writing library                          : libebml v1.4.7 + libmatroska v1.7.2
+Website                                  : https://sekai-archivist.blogspot.com/
+
+Video
+ID                                       : 1
+ID in the original source medium         : 224 (0xE0)
+Format                                   : MPEG Video
+Format version                           : Version 2
+Format profile                           : Main@Main
+Format settings                          : CustomMatrix / BVOP
+Format settings, BVOP                    : Yes
+Format settings, Matrix                  : Custom
+Format settings, GOP                     : M=3, N=15
+Format settings, picture structure       : Frame
+Codec ID                                 : V_MPEG2
+Codec ID/Info                            : MPEG 1 or 2 Video
+Duration                                 : 2 h 30 min
+Bit rate mode                            : Variable
+Bit rate                                 : 5 473 kb/s
+Maximum bit rate                         : 7 500 kb/s
+Width                                    : 720 pixels
+Height                                   : 480 pixels
+Display aspect ratio                     : 4:3
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Standard                                 : NTSC
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Interlaced
+Scan order                               : Top Field First
+Compression mode                         : Lossy
+Bits/(Pixel*Frame)                       : 0.528
+Time code of first frame                 : 01:00:10:00
+Time code source                         : Group of pictures header
+GOP, Open/Closed                         : Open
+GOP, Open/Closed of first frame          : Closed
+Stream size                              : 5.77 GiB (78%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Audio
+ID                                       : 2
+ID in the original source medium         : 189 (0xBD)160 (0xA0)
+Format                                   : PCM
+Format settings                          : Little / Signed
+Codec ID                                 : A_PCM/INT/LIT
+Duration                                 : 2 h 30 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 2 channels
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 25.000 FPS (1920 SPF)
+Bit depth                                : 16 bits
+Stream size                              : 1.62 GiB (22%)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+Original source medium                   : DVD-Video
+
+Menu
+00:00:00.066                             : en:OPENING
+00:07:04.924                             : en:HAPPY SWING
+00:12:19.638                             : en:Kuchibiru
+00:17:01.086                             : en:Glorious
+00:21:42.067                             : en:SHUTTER SPEEDS no Theme
+00:25:53.251                             : en:More than Love
+00:31:34.392                             : en:Survival
+00:36:58.950                             : en:Ikiteku Tsuyosa
+00:40:43.374                             : en:Yes, Summerdays
+00:46:31.088                             : en:summer FM
+00:53:08.585                             : en:INNOCENCE
+00:59:28.164                             : en:Freeze My Love
+01:05:26.455                             : en:HOWEVER
+01:11:25.748                             : en:Kokodewanai, Dokoka e
+01:17:19.768                             : en:LADY CLOSE
+01:22:46.027                             : en:TWO BELL SILENCE
+01:27:10.758                             : en:MISERY
+01:34:20.588                             : en:Yuuwaku
+01:38:37.311                             : en:COME ON!!
+01:41:54.942                             : en:ACID HEAD
+01:50:13.039                             : en:I'm in Love
+01:59:01.200                             : en:Kanojo no "ModernΓÇª"
+02:03:44.116                             : en:Biribiri Crashmen
+02:08:37.776                             : en:BURST
+02:24:29.227                             : en:ENDING
+02:30:21.078                             : en:
+02:30:23.581                             : en:
+02:30:34.759                             : en:
+02:30:50.107                             : en:
+
+
